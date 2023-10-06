@@ -2,6 +2,8 @@ import java.util.*;
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  *  A command-line clone of the write feature in quizlet.
@@ -170,30 +172,35 @@ class Main {
         if (IGNORE_PARENTHESES) {
             userAnswer = deleteParens(userAnswer).trim();
             answer = deleteParens(answer).trim();
-            System.out.println("user answer: " + userAnswer);
-            System.out.println("answer: " + answer);
         }
         return userAnswer.equals(answer);
     }
 
     private static String deleteParens(String str) {
-        while (str.contains("(")) {
-            int firstLeftParen = str.indexOf("(");
-            String firstLeftParenAndRest = str.substring(firstLeftParen);
-            if (firstLeftParenAndRest.contains(")")) {
-                int firstRightParen = firstLeftParenAndRest.indexOf(")") + firstLeftParen;
-                        // (indices between str and rest are offset by firstLeftParen
-                System.out.println("firstLeftParen: " + firstLeftParen);
-                System.out.println("firstRightParen: " + firstLeftParen);
-                str = str.substring(0, firstLeftParen) + str.substring(firstRightParen + 1);
-            } else {
-                str = str.substring(0, firstLeftParen) + str.substring(firstLeftParen + 1);
-            }
+        int[] pair = getFirstParenPair(str);
+        while (pair != null) {
+            str = str.substring(0, pair[0]) + str.substring(pair[1] + 1);
+            pair = getFirstParenPair(str);
         }
         str = str.
                 replaceAll("[)]", "").
                 replaceAll("[(]", "");
         return str;
+    }
+
+    private static int[] getFirstParenPair(String str) {
+        if (str.contains("(")) {
+            int left = str.indexOf("(");
+            for (int i = left; i < str.length(); i++) {
+                if (str.charAt(i) == '(') {
+                    left = i;
+                } else if (str.charAt(i) == ')'){
+                    int[] pair = {left, i};
+                    return pair;
+                }
+            }
+        }
+        return null;
     }
 
     private static String left(String str) {
