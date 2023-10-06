@@ -17,14 +17,15 @@ class Main {
     // Expected format:
     // Each "pair" is separated by a newline.
     // A pair is "term<tab>definition"
-    // where <tab> is a tab character.
+    // where <tab> is a tab character. Multiple tab characters are allowed
+    // Within a pair, any whitespace before and after "term" and "definition" is ignored.
     // See numbers.txt for an example.
     public static String TERMS_FILE = "numbers.txt";
     //public static String TERMS_FILE = "smallNumbers.txt";
 
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
-    public static boolean ANSWER_WITH_DEFINITION = false;
+    public static boolean ANSWER_WITH_DEFINITION = true;
     private static Scanner input;
     private static Random rand;
 
@@ -132,7 +133,7 @@ class Main {
                     System.out.println("Wow that's so cool!");
                     break;
             }
-            System.out.println(remainingTerms.size() - numComplete + " terms left to go!");
+            System.out.println("(" + (remainingTerms.size() - numComplete) + " cards left)");
             System.out.println();
         }
         return numCorrect;
@@ -145,7 +146,7 @@ class Main {
 
     private static String right(String str) {
         String[] tokens = str.split("\t");
-        return tokens[1].trim();
+        return tokens[tokens.length - 1].trim();
     }
 
     private static void pageBreak() {
