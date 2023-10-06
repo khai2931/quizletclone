@@ -1,0 +1,48 @@
+in class		a lezione
+what is it?		che cos'e\?
+notes			gli appunti
+homework		i compiti
+exam			l'esame (m)
+door			la porta
+textbook		il testo
+grade			il voto
+places			i luoghi
+lecture hall, classroom		l'aula
+library			la biblioteca
+classroom		la classe
+department		la facolta\
+cafeteria		la mensa
+high school		la scuola superiore
+university		l'universita\ (f)
+subjects		le materie
+art				l'arte (f)
+economics		l'economia
+law				la giurisprudenza
+computer science			l'informatica
+arts, humanities			le lettere
+languages		le lingue
+science(s)		le scienze
+history			la storia
+people			la gente
+who is it?		chi e\?
+(K-12) student	l'alunno|a
+friend			l'amico|a
+classmate		il|la compagno|a di classe
+instructor		l'insegnante
+trash can		il cestino
+pencil			la matita
+desk			il banco
+sheet of paper	il foglio di carta
+notebook		il quaderno
+book			il libro
+dictionary		il dizionario
+clock			l'orologio
+backpack		lo zaino
+window			la finestra
+pen				la penna
+(college) student			lo|la studente|essa
+professor (m)	il professore
+professor (f)	la professoressa
+map				la cartina
+seat			la sedia
+blackboard		la lavagna

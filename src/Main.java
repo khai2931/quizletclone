@@ -7,7 +7,9 @@ import java.util.Scanner; // Import the Scanner class to read text files
  *  A command-line clone of the write feature in quizlet.
  *  (i.e. memorize each and every flashcard by writing the term/definition fully)
  *  See STATIC_CONSTANTS settings below for
- *  terms to use, case sensitivity, and whether to answer with term/definition,
+ *  terms to use, case sensitivity, whether to answer with term/definition,
+ *  and whether to ignore anything in parentheses ()
+ *  (which will ignore spaces following ')' and preceding '('  )
  *  which are STATIC_CONSTANTS.
  *  Note that questions are always randomized.
  */
@@ -19,6 +21,7 @@ class Main {
     // A pair is "term<tab>definition"
     // where <tab> is a tab character. Multiple tab characters are allowed
     // Within a pair, any whitespace before and after "term" and "definition" is ignored.
+    // Any lines with no tab characters AND any lines that only contain whitespace are ignored.
     // See numbers.txt for an example.
 
     public static String TERMS_FILE = "multiWordTest.txt";
@@ -34,6 +37,10 @@ class Main {
     // If true, cards will be randomized
     // otherwise cards will appear in order of the file provided
     public static boolean RANDOMIZE = true;
+    // If true, will ignore anything in parentheses ()
+    // (which will ignore spaces following ')' and preceding '('  )
+    public static boolean IGNORE_PARENTHESES = true;
+
     private static Scanner input;
     private static Random rand;
 
@@ -61,7 +68,10 @@ class Main {
             Scanner myReader = new Scanner(file);
             terms = new ArrayList<>();
             while (myReader.hasNextLine()) {
-                terms.add(myReader.nextLine().trim());
+                String nextLine = myReader.nextLine().trim();
+                if (nextLine.contains("\t")) {
+                    terms.add(nextLine);
+                }
             }
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
@@ -89,6 +99,8 @@ class Main {
                 numCorrect = goThroughTerms(remainingTerms, incorrectTerms);
                 total = remainingTerms.size();
                 System.out.println("You got " + numCorrect + " out of " + total + " correct!");
+            } else {
+                break;
             }
         }
     }
@@ -155,7 +167,33 @@ class Main {
             userAnswer = userAnswer.toLowerCase();
             answer = answer.toLowerCase();
         }
+        if (IGNORE_PARENTHESES) {
+            userAnswer = deleteParens(userAnswer).trim();
+            answer = deleteParens(answer).trim();
+            System.out.println("user answer: " + userAnswer);
+            System.out.println("answer: " + answer);
+        }
         return userAnswer.equals(answer);
+    }
+
+    private static String deleteParens(String str) {
+        while (str.contains("(")) {
+            int firstLeftParen = str.indexOf("(");
+            String firstLeftParenAndRest = str.substring(firstLeftParen);
+            if (firstLeftParenAndRest.contains(")")) {
+                int firstRightParen = firstLeftParenAndRest.indexOf(")") + firstLeftParen;
+                        // (indices between str and rest are offset by firstLeftParen
+                System.out.println("firstLeftParen: " + firstLeftParen);
+                System.out.println("firstRightParen: " + firstLeftParen);
+                str = str.substring(0, firstLeftParen) + str.substring(firstRightParen + 1);
+            } else {
+                str = str.substring(0, firstLeftParen) + str.substring(firstLeftParen + 1);
+            }
+        }
+        str = str.
+                replaceAll("[)]", "").
+                replaceAll("[(]", "");
+        return str;
     }
 
     private static String left(String str) {
