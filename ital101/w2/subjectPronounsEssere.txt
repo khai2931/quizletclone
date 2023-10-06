@@ -5,7 +5,7 @@ you (for)	Lei
 he			lui
 she			lei
 we			noi
-you			voi
+you (pl)	voi
 you (rare, formal)	Loro
 they		loro
 
@@ -21,10 +21,11 @@ we are			noi siamo
 you are (pl)	voi siete
 you are (pl, rare, formal)	Loro sono
 they are		loro sono
-Sono (possible pronouns)	I, They, You (pl, rare, formal)
-E\ (possible pronouns)		He, She, You (form)
-Siamo (possible pronouns)	We
-Siete (possible pronouns)	You (pl)
+sono (possible pronouns)	io, loro, Loro
+E\ (possible pronouns)		lui, lei, Lei
+siamo (possible pronouns)	noi
+siete (possible pronouns)	voi
+sei (possible pronouns)		tu
 
 // other
 there is		c'e\

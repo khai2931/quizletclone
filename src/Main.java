@@ -25,17 +25,17 @@ class Main {
     // Any lines with no tab characters AND any lines that only contain whitespace are ignored.
     // See numbers.txt for an example.
 
-    //public static String TERMS_FILE = null;
+    public static String TERMS_FILE = null;
     //public static String TERMS_FILE = "multiWordTest.txt";
     //public static String TERMS_FILE = "numbers.txt";
-    public static String TERMS_FILE = "ital101/w2/subjectPronounsEssere.txt";
+    //public static String TERMS_FILE = "ital101/w2/subjectPronounsEssere.txt";
 
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
     public static boolean ANSWER_WITH_DEFINITION = true;
     // If true, all answers must match casing to be correct,
     // otherwise casing is ignored
-    public static boolean CASE_SENSITIVE = true;
+    public static boolean CASE_SENSITIVE = false;
     // If true, cards will be randomized
     // otherwise cards will appear in order of the file provided
     public static boolean RANDOMIZE = true;
@@ -143,7 +143,7 @@ class Main {
             }
             System.out.print(question + "\t -> \t");
             userAnswer = input.nextLine();
-            if (userAnswer.equals(answer)) {
+            if (answerIsCorrect(userAnswer, answer)) {
                 numCorrect++;
             } else {
                 incorrectTerms.add(pair);
