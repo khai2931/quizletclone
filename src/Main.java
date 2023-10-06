@@ -7,8 +7,8 @@ import java.util.Scanner; // Import the Scanner class to read text files
  *  A command-line clone of the write feature in quizlet.
  *  (i.e. memorize each and every flashcard by writing the term/definition fully)
  *  See STATIC_CONSTANTS settings below for
- *  terms to use and whether to answer with term/definition,
- *  which are STATIC_CONSTANTS
+ *  terms to use, case sensitivity, and whether to answer with term/definition,
+ *  which are STATIC_CONSTANTS.
  *  Note that questions are always randomized.
  */
 class Main {
@@ -26,6 +26,9 @@ class Main {
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
     public static boolean ANSWER_WITH_DEFINITION = true;
+    // If true, all answers must match casing to be correct,
+    // otherwise casing is ignored
+    public static boolean CASE_SENSITIVE = false;
     private static Scanner input;
     private static Random rand;
 
@@ -110,7 +113,7 @@ class Main {
             } else {
                 incorrectTerms.add(pair);
             }
-            while (!userAnswer.equals(answer)) {
+            while (!answerIsCorrect(userAnswer, answer)) {
                 System.out.println();
                 System.out.println("The answer is: \"" + answer + "\". Try again!");
                 System.out.println();
@@ -138,6 +141,14 @@ class Main {
             System.out.println();
         }
         return numCorrect;
+    }
+
+    private static boolean answerIsCorrect(String userAnswer, String answer) {
+        if (!CASE_SENSITIVE) {
+            userAnswer = userAnswer.toLowerCase();
+            answer = answer.toLowerCase();
+        }
+        return userAnswer.equals(answer);
     }
 
     private static String left(String str) {
