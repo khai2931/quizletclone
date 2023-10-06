@@ -91,6 +91,7 @@ class Main {
         String userAnswer;
         Collections.shuffle(remainingTerms, rand);
         System.out.println("Please write the answer for each a -> b pair.");
+        System.out.println("(" + (remainingTerms.size() - numComplete) + " cards left)");
         System.out.println();
         for (String pair : remainingTerms) {
             String question;
