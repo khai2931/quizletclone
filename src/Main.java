@@ -132,7 +132,7 @@ class Main {
                     System.out.println("Wow that's so cool!");
                     break;
             }
-            System.out.println(" " + (remainingTerms.size() - numComplete) + " terms left to go!");
+            System.out.println(remainingTerms.size() - numComplete + " terms left to go!");
             System.out.println();
         }
         return numCorrect;
