@@ -86,6 +86,7 @@ class Main {
 
     private static int goThroughTerms(List<String> remainingTerms, List<String> incorrectTerms) {
         int numCorrect = 0;
+        int numComplete = 0;
         String userAnswer;
         Collections.shuffle(remainingTerms, rand);
         System.out.println("Please write the answer for each a -> b pair.");
@@ -114,22 +115,25 @@ class Main {
                 System.out.print(question + "\t -> \t");
                 userAnswer = input.nextLine();
             }
+            numComplete++;
             int choice = rand.nextInt(4);
             System.out.println();
             switch (choice) {
                 case 0:
-                    System.out.println("Correct! Good job :) \n");
+                    System.out.println("Correct! Good job :)");
                     break;
                 case 1:
-                    System.out.println("Awesome stuff :) \n");
+                    System.out.println("Awesome stuff :)");
                     break;
                 case 2:
-                    System.out.println("You got this! \n");
+                    System.out.println("You got this!");
                     break;
                 default:
-                    System.out.println("Wow that's so cool! \n");
+                    System.out.println("Wow that's so cool!");
                     break;
             }
+            System.out.println(" " + (remainingTerms.size() - numComplete) + " terms left to go!");
+            System.out.println();
         }
         return numCorrect;
     }
