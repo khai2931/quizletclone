@@ -1,0 +1,131 @@
+import java.util.*;
+import java.io.File;  // Import the File class
+import java.io.FileNotFoundException;  // Import this class to handle errors
+import java.util.Scanner; // Import the Scanner class to read text files
+
+class Main {
+    //public static String TERMS_FILE = "numbers.txt";
+    public static String TERMS_FILE = "smallNumbers.txt";
+    public static boolean ANSWER_WITH_DEFINITION = false;
+    private static Scanner input;
+    private static Random rand;
+
+    public static void main(String[] args) {
+        input = new Scanner(System.in);
+        rand = new Random();
+        List<String> terms = parseTerms(TERMS_FILE);
+        String userAnswer = "y";
+        while (userAnswer.equals("y")) {
+            testTerms(terms);
+            System.out.print("Practice everything again? (y/n) ");
+            userAnswer = input.nextLine();
+            System.out.println();
+        }
+    }
+
+    public static List<String> parseTerms(String filename) {
+        List<String> terms = null;
+        try {
+            File file = new File(filename);
+            System.out.println(file.getCanonicalPath());
+            Scanner myReader = new Scanner(file);
+            terms = new ArrayList<>();
+            while (myReader.hasNextLine()) {
+                terms.add(myReader.nextLine());
+            }
+        } catch (FileNotFoundException e) {
+            System.out.println("An error occurred.");
+            e.printStackTrace();
+        } finally {
+            return terms;
+        }
+    }
+
+    public static void testTerms(List<String> terms) {
+        String userAnswer = "";
+        List<String> remainingTerms = new ArrayList<>(terms);
+        List<String> incorrectTerms = new ArrayList<>();
+        int numCorrect = goThroughTerms(remainingTerms, incorrectTerms);
+        int total = remainingTerms.size();
+        System.out.println("You got " + numCorrect + " out of " + total + " correct!");
+        while (numCorrect < total) {
+            System.out.print("Practice wrong answers? (y/n) ");
+            userAnswer = input.nextLine();
+            System.out.println();
+            if (userAnswer.equals("y")) {
+                pageBreak();
+                remainingTerms = incorrectTerms;
+                incorrectTerms = new ArrayList<>();
+                numCorrect = goThroughTerms(remainingTerms, incorrectTerms);
+                total = remainingTerms.size();
+                System.out.println("You got " + numCorrect + " out of " + total + " correct!");
+            }
+        }
+    }
+
+    private static int goThroughTerms(List<String> remainingTerms, List<String> incorrectTerms) {
+        int numCorrect = 0;
+        String userAnswer;
+        Collections.shuffle(remainingTerms, rand);
+        System.out.println("Please write the answer for each a -> b pair.");
+        System.out.println();
+        for (String pair : remainingTerms) {
+            String question;
+            String answer;
+            if (ANSWER_WITH_DEFINITION) {
+                question = left(pair);
+                answer = right(pair);
+            } else {
+                question = right(pair);
+                answer = left(pair);
+            }
+            System.out.print(question + "\t -> \t");
+            userAnswer = input.nextLine();
+            if (userAnswer.equals(answer)) {
+                numCorrect++;
+            } else {
+                incorrectTerms.add(pair);
+            }
+            while (!userAnswer.equals(answer)) {
+                System.out.println();
+                System.out.println("The answer is: \"" + answer + "\". Try again!");
+                System.out.println();
+                System.out.print(question + "\t -> \t");
+                userAnswer = input.nextLine();
+            }
+            int choice = rand.nextInt(4);
+            System.out.println();
+            switch (choice) {
+                case 0:
+                    System.out.println("Correct! Good job :) \n");
+                    break;
+                case 1:
+                    System.out.println("Awesome stuff :) \n");
+                    break;
+                case 2:
+                    System.out.println("You got this! \n");
+                    break;
+                default:
+                    System.out.println("Wow that's so cool! \n");
+                    break;
+            }
+        }
+        return numCorrect;
+    }
+
+    private static String left(String str) {
+        String[] tokens = str.split("\t");
+        return tokens[0].trim();
+    }
+
+    private static String right(String str) {
+        String[] tokens = str.split("\t");
+        return tokens[1].trim();
+    }
+
+    private static void pageBreak() {
+        for (int i = 0; i < 100; i++) {
+            System.out.println();
+        }
+    }
+}
