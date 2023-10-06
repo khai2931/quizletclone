@@ -3,9 +3,23 @@ import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
 
+/**
+ *  A command-line clone of the write feature in quizlet.
+ *  See settings below, which are STATIC_CONSTANTS
+ *  Note that questions are always randomized.
+ */
 class Main {
-    //public static String TERMS_FILE = "numbers.txt";
-    public static String TERMS_FILE = "smallNumbers.txt";
+
+    // Choose file here.
+    // Expected format:
+    // Each "pair" is separated by a newline.
+    // A pair is "term<tab>definition"
+    // where <tab> is a tab character.
+    public static String TERMS_FILE = "numbers.txt";
+    //public static String TERMS_FILE = "smallNumbers.txt";
+
+    // If true, you will answer with definition (right), otherwise
+    // you will answer with term (left).
     public static boolean ANSWER_WITH_DEFINITION = false;
     private static Scanner input;
     private static Random rand;
