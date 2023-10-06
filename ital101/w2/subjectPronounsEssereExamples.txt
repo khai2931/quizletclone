@@ -1,0 +1,8 @@
+// pronoun examples
+She speaks Italian					Lei parla italiano
+I also speak Italian				Io parlo anche italiano
+They are Italian books				Sono libro d'italiano
+What does she study?				Che cosa studia lei?
+Ptofessor Balli, what do you teach?	Professor Balli, Lei cosa insegna?
+You are good students				Voi siete bravi studenti
+Ladies, do you speak English?		Voi parlate inglese?

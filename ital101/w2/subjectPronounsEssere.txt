@@ -1,0 +1,31 @@
+// main pronouns
+I			io
+you (inf) 	tu
+you (for)	Lei
+he			lui
+she			lei
+we			noi
+you			voi
+you (rare, formal)	Loro
+they		loro
+
+// Essere (to be)
+to be			essere
+I am			io sono
+you are (inf)	tu sei
+you are (form)	Lei e\
+he is			lui e\
+she is			lei e\
+it is			e\
+we are			noi siamo
+you are (pl)	voi siete
+you are (pl, rare, formal)	Loro sono
+they are		loro sono
+Sono (possible pronouns)	I, They, You (pl, rare, formal)
+E\ (possible pronouns)		He, She, You (form)
+Siamo (possible pronouns)	We
+Siete (possible pronouns)	You (pl)
+
+// other
+there is		c'e\
+here is			ecco

@@ -36,7 +36,7 @@ sheet of paper	il foglio di carta
 notebook		il quaderno
 book			il libro
 dictionary		il dizionario
-clock			l'orologio
+clock (watch)			l'orologio
 backpack		lo zaino
 window			la finestra
 pen				la penna
@@ -46,3 +46,4 @@ professor (f)	la professoressa
 map				la cartina
 seat			la sedia
 blackboard		la lavagna
+medicine		la medicina

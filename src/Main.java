@@ -15,6 +15,8 @@ import java.util.Scanner; // Import the Scanner class to read text files
 class Main {
 
     // Choose file here for your list of terms.
+    // If null, the user can select the file, otherwise,
+    // this overrides user selection
     // Expected format:
     // Each "pair" is separated by a newline.
     // A pair is "term<tab>definition"
@@ -23,16 +25,17 @@ class Main {
     // Any lines with no tab characters AND any lines that only contain whitespace are ignored.
     // See numbers.txt for an example.
 
-    public static String TERMS_FILE = "multiWordTest.txt";
+    //public static String TERMS_FILE = null;
+    //public static String TERMS_FILE = "multiWordTest.txt";
     //public static String TERMS_FILE = "numbers.txt";
-    //public static String TERMS_FILE = "smallNumbers.txt";
+    public static String TERMS_FILE = "ital101/w2/subjectPronounsEssere.txt";
 
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
-    public static boolean ANSWER_WITH_DEFINITION = false;
+    public static boolean ANSWER_WITH_DEFINITION = true;
     // If true, all answers must match casing to be correct,
     // otherwise casing is ignored
-    public static boolean CASE_SENSITIVE = false;
+    public static boolean CASE_SENSITIVE = true;
     // If true, cards will be randomized
     // otherwise cards will appear in order of the file provided
     public static boolean RANDOMIZE = true;
@@ -49,14 +52,28 @@ class Main {
         System.out.println();
         input = new Scanner(System.in);
         rand = new Random();
-        List<String> terms = parseTerms(TERMS_FILE);
-        String userAnswer = "y";
-        while (userAnswer.equals("y")) {
-            testTerms(terms);
-            System.out.print("Practice everything again? (y/n) ");
+        boolean isStudying = true;
+        while (isStudying) {
+            if (TERMS_FILE == null) {
+                System.out.print("Which file to use? ");
+                TERMS_FILE = input.nextLine();
+                System.out.println();
+            }
+            List<String> terms = parseTerms(TERMS_FILE);
+            String userAnswer = "y";
+            while (userAnswer.equals("y")) {
+                testTerms(terms);
+                System.out.print("Practice everything again? (y/n) ");
+                userAnswer = input.nextLine();
+                System.out.println();
+            }
+            System.out.print("Study a different set? (y/n) ");
             userAnswer = input.nextLine();
             System.out.println();
+            isStudying = userAnswer.equals("y");
         }
+        System.out.println();
+        System.out.println("Bye! See you later :)");
     }
 
     public static List<String> parseTerms(String filename) {
@@ -141,6 +158,9 @@ class Main {
             numComplete++;
             int choice = rand.nextInt(4);
             System.out.println();
+            if (!answer.equals(userAnswer)) {
+                System.out.println("Alternative answers: \"" + answer + "\"");
+            }
             switch (choice) {
                 case 0:
                     System.out.println("Correct! Good job :)");
@@ -170,7 +190,19 @@ class Main {
             userAnswer = deleteParens(userAnswer);
             answer = deleteParens(answer);
         }
+        // commas are removed and standardized so order is ignored
+        userAnswer = alphabeticalNoComma(userAnswer);
+        answer = alphabeticalNoComma(answer);
         return userAnswer.equals(answer);
+    }
+
+    private static String alphabeticalNoComma(String str) {
+        String[] items = str.split(",");
+        for (int i = 0; i < items.length; i++) {
+            items[i] = items[i].trim();
+        }
+        Arrays.sort(items);
+        return String.join(",", items);
     }
 
     private static String deleteParens(String str) {
