@@ -6,12 +6,14 @@ import java.util.Scanner; // Import the Scanner class to read text files
 /**
  *  A command-line clone of the write feature in quizlet.
  *  (i.e. memorize each and every flashcard by writing the term/definition fully)
- *  See settings below, which are STATIC_CONSTANTS
+ *  See STATIC_CONSTANTS settings below for
+ *  terms to use and whether to answer with term/definition,
+ *  which are STATIC_CONSTANTS
  *  Note that questions are always randomized.
  */
 class Main {
 
-    // Choose file here.
+    // Choose file here for your list of terms.
     // Expected format:
     // Each "pair" is separated by a newline.
     // A pair is "term<tab>definition"
