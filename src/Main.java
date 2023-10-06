@@ -8,8 +8,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  *  (i.e. memorize each and every flashcard by writing the term/definition fully)
  *  See STATIC_CONSTANTS settings below for
  *  terms to use, case sensitivity, whether to answer with term/definition,
- *  and whether to ignore anything in parentheses ()
- *  (which will ignore spaces following ')' and preceding '('  )
+ *  and whether to ignore anything in parentheses (),
  *  which are STATIC_CONSTANTS.
  *  Note that questions are always randomized.
  */
@@ -37,8 +36,8 @@ class Main {
     // If true, cards will be randomized
     // otherwise cards will appear in order of the file provided
     public static boolean RANDOMIZE = true;
-    // If true, will ignore anything in parentheses ()
-    // (which will ignore spaces following ')' and preceding '('  )
+    // If true, will ignore anything in parentheses () and any ( or )
+    // (which will ignore any extra whitespace)
     public static boolean IGNORE_PARENTHESES = true;
 
     private static Scanner input;
