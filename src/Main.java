@@ -20,7 +20,9 @@ class Main {
     // where <tab> is a tab character. Multiple tab characters are allowed
     // Within a pair, any whitespace before and after "term" and "definition" is ignored.
     // See numbers.txt for an example.
-    public static String TERMS_FILE = "numbers.txt";
+
+    public static String TERMS_FILE = "multiWordTest.txt";
+    //public static String TERMS_FILE = "numbers.txt";
     //public static String TERMS_FILE = "smallNumbers.txt";
 
     // If true, you will answer with definition (right), otherwise
@@ -59,7 +61,7 @@ class Main {
             Scanner myReader = new Scanner(file);
             terms = new ArrayList<>();
             while (myReader.hasNextLine()) {
-                terms.add(myReader.nextLine());
+                terms.add(myReader.nextLine().trim());
             }
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
