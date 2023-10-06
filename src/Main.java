@@ -29,6 +29,9 @@ class Main {
     private static Random rand;
 
     public static void main(String[] args) {
+        System.out.println("Welcome to Khai's Quizlet Clone!");
+        System.out.println("Happy studying :)");
+        System.out.println();
         input = new Scanner(System.in);
         rand = new Random();
         List<String> terms = parseTerms(TERMS_FILE);
