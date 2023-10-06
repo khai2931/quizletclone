@@ -25,10 +25,13 @@ class Main {
 
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
-    public static boolean ANSWER_WITH_DEFINITION = true;
+    public static boolean ANSWER_WITH_DEFINITION = false;
     // If true, all answers must match casing to be correct,
     // otherwise casing is ignored
     public static boolean CASE_SENSITIVE = false;
+    // If true, cards will be randomized
+    // otherwise cards will appear in order of the file provided
+    public static boolean RANDOMIZE = true;
     private static Scanner input;
     private static Random rand;
 
@@ -92,7 +95,9 @@ class Main {
         int numCorrect = 0;
         int numComplete = 0;
         String userAnswer;
-        Collections.shuffle(remainingTerms, rand);
+        if (RANDOMIZE) {
+            Collections.shuffle(remainingTerms, rand);
+        }
         System.out.println("Please write the answer for each a -> b pair.");
         System.out.println("(" + (remainingTerms.size() - numComplete) + " cards left)");
         System.out.println();
