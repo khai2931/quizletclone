@@ -2,8 +2,6 @@ import java.util.*;
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  *  A command-line clone of the write feature in quizlet.
@@ -170,8 +168,8 @@ class Main {
             answer = answer.toLowerCase();
         }
         if (IGNORE_PARENTHESES) {
-            userAnswer = deleteParens(userAnswer).trim();
-            answer = deleteParens(answer).trim();
+            userAnswer = deleteParens(userAnswer);
+            answer = deleteParens(answer);
         }
         return userAnswer.equals(answer);
     }
@@ -185,7 +183,7 @@ class Main {
         str = str.
                 replaceAll("[)]", "").
                 replaceAll("[(]", "");
-        return str;
+        return str.trim();
     }
 
     private static int[] getFirstParenPair(String str) {
