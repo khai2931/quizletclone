@@ -1,0 +1,7 @@
+// The Rules
+there is | there are			c'e\ | ci sono
+how many? (m) | how many? (f)	quanti | quante
+a lot (m) | a lot (f)			molti | molte
+there is no | there are no		non c'e\ | non ci sono
+here is | here are				ecco
+how many are there?				quanti ci sono | quante ci sono

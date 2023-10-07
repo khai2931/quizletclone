@@ -6,7 +6,7 @@ he			lui
 she			lei
 we			noi
 you (pl)	voi
-you (rare, formal)	Loro
+you (pl, rare, formal)	Loro
 they		loro
 
 // Essere (to be)

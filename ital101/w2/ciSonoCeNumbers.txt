@@ -1,0 +1,23 @@
+// how many? with many examples
+
+Is there a chair?		C'e\ una sedia?
+There are three chairs	Ci sono tre sedie?
+Is there a television?	C'e\ una televisione?
+
+How many students are there?		Quanti studenti ci sono?
+How many pencils are there?			Quante matite ci sono?
+
+There are a lot of students			Ci sono molti studenti
+There are a lot of pencils			Ci sono molte matite
+
+There is no class					Non c'e\ lezione
+There aren't many exams				Non ci sono molti esami
+
+Here are the professors				Ecco i professori
+Here is the dictionary				Ecco il dizionario
+
+There are six italian professors	Ci sono sei professori d'italiano
+Is there a dictionary in the library?			C'e\ un dizionario in biblioteca?
+
+There are twenty computers in the library		In biblioteca ci sono venti computer
+

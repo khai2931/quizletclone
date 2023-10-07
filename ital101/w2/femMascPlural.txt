@@ -1,0 +1,48 @@
+!! all are structured (singular | plural) !!
+
+// feminine nouns
+car					macchina | macchine
+question			domanda | domande
+idea				idea | idee
+doctor (f)			dottoressa | dottoresse
+man or woman		persona | persone (f, can refer to man or woman)
+
+// feminine nouns that end in e
+classroom			classe | classi (f)
+night				notte | notti (f)
+lesson				lezione | lezioni (f)
+TV					televisione | televisioni (f)
+
+// masculine nouns
+book				libro | libri
+table				tavolo | tavoli
+office				ufficio | uffici
+photo				foto
+computer			computer
+bus					autobus
+hotel				albergo | alberghi
+
+// masculine nouns that end in e or a
+exam				esame | esami (m)
+restaurant			ristorante | ristoranti (m)
+coffee				caffe\ (m)
+doctor (m)			dottore | dottori (m)
+problem				problema | problemi (m)
+
+// nouns with both forms
+friend (m)			amico | amici
+friend (f)			amica | amiche
+actor				attore | attori
+actress				attrice | attrici
+student (m)			studente | studenti
+student (f)			studentessa | studentesse
+boy					ragazzo | ragazzi
+girl				ragazza | ragazze
+woman				donna | donne
+ms.					signora | signore
+mr.					signore | signori
+
+
+// mixed gender uses masc plural
+the (male and female) friends		gli amici
+the (male and female) students		gli studenti

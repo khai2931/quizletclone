@@ -1,0 +1,15 @@
+// definite | indefinite
+
+masc singular, sw consonant		il | un
+fem singular, sw consonant		la | una
+masc plural, sw consonant		i
+fem plural, sw consonant		le
+
+masc singular, sw vowel			l' | un
+fem singular, sw vowel			l' | un'
+masc plural, sw vowel			gli
+fem plural, sw vowel			le
+
+SINGULAR masc noun that starts with z, s+consonant, ps, pn, x, y, gn		lo | uno
+PLURAL masc noun that starts with z, s+consonant, ps, pn, x, y, gn			gli
+

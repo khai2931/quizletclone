@@ -28,7 +28,7 @@ class Main {
     public static String TERMS_FILE = null;
     //public static String TERMS_FILE = "multiWordTest.txt";
     //public static String TERMS_FILE = "numbers.txt";
-    //public static String TERMS_FILE = "ital101/w2/subjectPronounsEssere.txt";
+    //public static String TERMS_FILE = "ital101/w2/ciSonoCeNumbersRules.txt";
 
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
@@ -71,6 +71,7 @@ class Main {
             userAnswer = input.nextLine();
             System.out.println();
             isStudying = userAnswer.equals("y");
+            TERMS_FILE = null;
         }
         System.out.println();
         System.out.println("Bye! See you later :)");
