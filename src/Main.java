@@ -1,7 +1,8 @@
 import java.util.*;
-import java.io.File;  // Import the File class
-import java.io.FileNotFoundException;  // Import this class to handle errors
-import java.util.Scanner; // Import the Scanner class to read text files
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 /**
  *  A command-line clone of the write feature in quizlet.
@@ -22,7 +23,8 @@ class Main {
     // A pair is "term<tab>definition"
     // where <tab> is a tab character. Multiple tab characters are allowed
     // Within a pair, any whitespace before and after "term" and "definition" is ignored.
-    // Any lines with no tab characters AND any lines that only contain whitespace are ignored.
+    // Any lines with no tab characters are ignored.
+    // Any lines that only contain whitespace are ignored.
     // See numbers.txt for an example.
 
     public static String TERMS_FILE = null;
@@ -94,6 +96,11 @@ class Main {
         }
         System.out.println();
         System.out.println("Bye! See you later :)");
+        try {
+            TimeUnit.SECONDS.sleep(3);
+        } catch (InterruptedException e) {
+            return;
+        }
     }
 
     public static List<String> parseTerms(String filename) {

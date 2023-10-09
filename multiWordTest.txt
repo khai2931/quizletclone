@@ -1,9 +1,0 @@
-(should not exists) Hello (should not exists)	(should not exists) Bye (should not exists)
-((should not exists) also) Heello ((should not exists) also)	((should not exists) also) Byye ((should not exists) also)
-())))()()(()()()((UGLY)()()())PARENS))(((())		())))()()(()(PARENS)()((PRETTY)()()())COOL))(((())
-ignore me
-
-
-ignore mee
-
-ignore                                mee
