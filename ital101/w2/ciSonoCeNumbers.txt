@@ -1,7 +1,7 @@
 // how many? with many examples
 
 Is there a chair?		C'e\ una sedia?
-There are three chairs	Ci sono tre sedie?
+There are three chairs	Ci sono tre sedie
 Is there a television?	C'e\ una televisione?
 
 How many students are there?		Quanti studenti ci sono?

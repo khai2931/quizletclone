@@ -1,0 +1,50 @@
+// cognate adj (similar to english)
+
+content			contento/a
+difficult		difficile
+honest			onesto/a
+dishonest		disonesto/a
+generous		generoso/a
+important		importante
+independent		indipendente
+intelligent		intelligente
+interesting		interessante
+long			lungo/a
+nervous			nervoso/a
+serious			serio/a
+sincere			sincero/a
+sociable		socievole
+studious		studioso/a
+timid			timido/a
+tranquil		tranquillo/a
+
+// other adj common
+beautiful, handsome		bello/a
+unpleasant		antipatico/a
+good, talented	bravo/a
+good			buono/a
+bad, naughty	cattivo/a
+fun				divertente
+easy			facile
+happy			felice
+boring			noioso/a
+lazy			pigro/a
+nice, likable	simpatico/a
+sad				triste
+
+// adj of nationality
+american	americano/a
+canadian	canadese
+vietnamese	vietnamia
+chinese		cinese
+korean		coreano/a
+french		francese
+japanese	giapponese
+greek		greco/a
+indian		indiano/a
+english		inglese
+italian		italiano/a
+mexican		messicano/a
+nigerian	nigeriano/a
+spanish		spagnolo/a
+german		tedesco/a
