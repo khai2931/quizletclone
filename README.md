@@ -27,7 +27,7 @@ Expected format:
 
 Each `pair` is separated by a newline.
 
-A 'pair' is `term<tab>definition` where <tab> is a tab character. Multiple tab characters are allowed.
+A 'pair' is `term<tab>definition` where `<tab>` is a tab character. Multiple tab characters are allowed.
 
 Within a pair, any whitespace before and after `term` and `definition` is ignored.
 
