@@ -35,7 +35,7 @@ sad				triste
 // adj of nationality
 american	americano/a
 canadian	canadese
-vietnamese	vietnamia
+vietnamese	vietnamita
 chinese		cinese
 korean		coreano/a
 french		francese
