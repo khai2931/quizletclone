@@ -35,4 +35,6 @@ Any lines with no tab characters are ignored.
 
 Any lines that only contain whitespace are ignored.
 
+Order is ignored in comma-separated lists (i.e. "a, b, c" is the same as "b, c, a")
+
 (i.e. you can organize your terms with comments that have no tabs -- see `ital101/w2/femMascPlural.txt` for an example)
