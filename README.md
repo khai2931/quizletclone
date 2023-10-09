@@ -1,6 +1,9 @@
 ﻿# quizletclone
 A command-line clone of the write feature in quizlet.
+
 (i.e. memorize each and every flashcard by writing the term/definition fully)
+
+(tab size is 4 if you want to make `ital/*.txt` look pretty)
 
 ## Usage
 
