@@ -52,6 +52,25 @@ class Main {
         System.out.println();
         input = new Scanner(System.in);
         rand = new Random();
+        System.out.println("Default settings:");
+        System.out.println("answer with definition, ignore casing, randomize questions, ignore parentheses.");
+        System.out.print("Would you like to adjust settings? (y/n) ");
+        String setSettings = input.nextLine();
+        System.out.println();
+        if (setSettings.equals("y")) {
+            System.out.print("Answer with definition or term? (d for definition, t for term) ");
+            ANSWER_WITH_DEFINITION = input.nextLine().equals("d");
+            System.out.println();
+            System.out.print("Require exact casing for correct answer? (y/n) ");
+            CASE_SENSITIVE = input.nextLine().equals("y");
+            System.out.println();
+            System.out.print("Randomize the order of questions? (y/n) ");
+            RANDOMIZE = input.nextLine().equals("y");
+            System.out.println();
+            System.out.print("Ignore parentheses and anything inside them when grading? (y/n) ");
+            IGNORE_PARENTHESES = input.nextLine().equals("y");
+            System.out.println();
+        }
         boolean isStudying = true;
         while (isStudying) {
             if (TERMS_FILE == null) {
