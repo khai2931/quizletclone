@@ -11,7 +11,6 @@ import java.util.concurrent.TimeUnit;
  *  terms to use, case sensitivity, whether to answer with term/definition,
  *  and whether to ignore anything in parentheses (),
  *  which are STATIC_CONSTANTS.
- *  Note that questions are always randomized.
  */
 class Main {
 
