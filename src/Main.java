@@ -24,12 +24,11 @@ class Main {
     // Within a pair, any whitespace before and after "term" and "definition" is ignored.
     // Any lines with no tab characters are ignored.
     // Any lines that only contain whitespace are ignored.
+    // Order and whitespace is ignored in comma-separated lists
+    // (i.e. "a, b, c" is the same as "b, c, a" and "b,c,a")
     // See numbers.txt for an example.
 
     public static String TERMS_FILE = null;
-    //public static String TERMS_FILE = "multiWordTest.txt";
-    //public static String TERMS_FILE = "numbers.txt";
-    //public static String TERMS_FILE = "ital101/w2/ciSonoCeNumbersRules.txt";
 
     // If true, you will answer with definition (right), otherwise
     // you will answer with term (left).
