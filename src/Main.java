@@ -267,8 +267,8 @@ class Main {
             answer = deleteParens(answer);
         }
         // commas are removed and standardized so order is ignored
-        userAnswer = alphabeticalNoComma(userAnswer);
-        answer = alphabeticalNoComma(answer);
+        userAnswer = alphabeticalTrimmedCommaList(userAnswer);
+        answer = alphabeticalTrimmedCommaList(answer);
         return userAnswer.equals(answer);
     }
 
@@ -282,7 +282,7 @@ class Main {
      * with each item trimmed of any leading/trailing whitespace.
      * (as a string)
      */
-    private static String alphabeticalNoComma(String str) {
+    private static String alphabeticalTrimmedCommaList(String str) {
         String[] items = str.split(",");
         for (int i = 0; i < items.length; i++) {
             items[i] = items[i].trim();
