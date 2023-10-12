@@ -45,7 +45,7 @@ The class is at noon			La lezione e\ a mezzogiorno
 The class is at midnight		La lezione e\ a mezzanotte
 The class is at 1				La lezione e\ all’una
 The class is at [other hour]	La lezione e\ alle + [hour]
-The class is at 6:00pm				La lezione e\ alle sei di sera
+The class is at 6:00pm			La lezione e\ alle sei di sera
 
 official time is expressed in	24 hour time
 
