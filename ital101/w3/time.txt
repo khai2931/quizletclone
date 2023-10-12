@@ -35,7 +35,7 @@ In the evening			di sera
 In the night			di notte
 It is 1:00am			E\ l'una di notte
 It is 11:00am			Sono le undici di mattina
-It is 1:00pm			E\ l'una di pomeriggio
+It is 1:00pm			E\ l'una del pomeriggio
 It is 7:00pm			Sono le sette di sera
 
 // what time is class?
