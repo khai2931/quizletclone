@@ -1,0 +1,20 @@
+// default: groups are mixed gender, you are male
+you are interesting		(tu) sei interessante
+we are interesting		(noi) siamo interessanti
+they are talented		(loro) sono bravi
+I am talented			(io) sono bravo
+she is dishonest		(lei) e\ disonesta
+you (pl.) are dishonest	(voi) siete disonesti
+he is unpleasant		(lui) e\ antipatico
+you (Formal, fem) are unpleasant		(Lei) e\ antipatica
+
+// negation
+no, you are not interesting		no, (tu )non sei interessante
+no, we are not interesting		no, (noi )non siamo interessanti
+no, they are not talented		no, (loro )non sono bravi
+
+// special cases
+io e Anna -> interessante		(noi) siamo interessanti
+Anna e Ela -> bravo				(loro) sono brave
+Ben e Chen -> bravo				(loro) sono bravi
+tu e Anna -> disonesto			(voi) siete disonesti

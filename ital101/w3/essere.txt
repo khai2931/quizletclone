@@ -1,0 +1,21 @@
+// Essere (to be)
+to be			essere
+I am			io sono
+you are (inf)	tu sei
+you are (form)	Lei e\
+he is			lui e\
+she is			lei e\
+it is			e\
+we are			noi siamo
+you are (pl)	voi siete
+you are (pl, rare, formal)	Loro sono
+they are		loro sono
+sono (possible pronouns)	io, loro, Loro
+E\ (possible pronouns)		lui, lei, Lei
+siamo (possible pronouns)	noi
+siete (possible pronouns)	voi
+sei (possible pronouns)		tu
+
+// other
+there is		c'e\
+here is			ecco
