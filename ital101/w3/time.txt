@@ -63,9 +63,9 @@ days of the week	i giorni della settimana
 
 // Recurring vs not Recurring
 I have Italian class on Mondays		Il lunedi\ ho lezione d'italiano
-I have Italian class on Sundays		La domenica\ ho lezione d'italiano
+I have Italian class on Sundays		La domenica ho lezione d'italiano
 
 I have Italian class on Monday		Lunedi\ ho lezione d'italiano
-I have Italian class on Sunday		Domenica\ ho lezione d'italiano
+I have Italian class on Sunday		Domenica ho lezione d'italiano
 
 
