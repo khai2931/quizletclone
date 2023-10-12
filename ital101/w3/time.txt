@@ -1,0 +1,71 @@
+// what time is it? it is...
+// num = not noon && not midnight && not 1
+It is noon			E\ mezzogiorno
+It is midnight		E\ mezzanotte
+It is 1:00			E\ l’una
+It is [num]:00		Sono le [num]
+
+// examples with minutes
+It is 1:20					E\ l’una e venti
+It is 1:40					E\ l’una e quaranta
+It is 1:01...it is 1:59		E\ l’una e uno...e\ l’una e cinquantanove
+
+It is 12:20pm				E\ mezzogiorno e venti
+It is 12:20am				E\ mezzanotte e venti
+
+It is 2:20					Sono le due e venti
+It is 2:40					Sono le due e quaranta
+It is 11:20					Sono le undici e venti
+It is 11:40					Sono le undici e quaranta
+
+// subtractive
+It is midnight minus one	E\ mezzanotte meno uno
+It is 3:00 minus ten		Sono le tre meno dieci
+
+// quarters and halves
+A quarter past 1:00			E\ l'una e un quarto, E\ l'una e un quindici
+A quarter before 2:00		Sono le due meno un quarto, Sono le due meno un quindici
+A half past midnight		E\ mezzanotte e mezza, E\ mezzanotte e trenta
+A half past 2:00			Sono le due e mezzo, Sono le due e trenta
+
+// dist. between AM/PM
+In the morning			di mattina (del mattino)
+In the afternoon		del pomeriggio
+In the evening			di sera
+In the night			di notte
+It is 1:00am			E\ l'una di notte
+It is 11:00am			Sono le undici di mattina
+It is 1:00pm			E\ l'una di pomeriggio
+It is 7:00pm			Sono le sette di sera
+
+// what time is class?
+// other hour = not noon && not midnight && not 1
+What time is Italian class?		A che ora e\ la lezione d’italiano?
+The class is at noon			La lezione e\ a mezzogiorno
+The class is at midnight		La lezione e\ a mezzanotte
+The class is at 1				La lezione e\ all’una
+The class is at [other hour]	La lezione e\ alle + [hour]
+The class is at 6:00pm				La lezione e\ alle sei di sera
+
+official time is expressed in	24 hour time
+
+// days of the week
+which is the only feminine day?	domenica
+monday			lunedi\
+tuesday			martedi\
+wednesday		mercoledi\
+thursday		giovedi\
+friday			venerdi\
+saturday		sabato
+sunday			domenica
+week			settimana
+days of the week	i giorni della settimana
+
+// Recurring vs not Recurring
+I have Italian class on Mondays		Il lunedi\ ho lezione d'italiano
+I have Italian class on Sundays		La domenica\ ho lezione d'italiano
+
+I have Italian class on Monday		Lunedi\ ho lezione d'italiano
+I have Italian class on Sunday		Domenica\ ho lezione d'italiano
+
+
