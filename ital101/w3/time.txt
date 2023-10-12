@@ -40,7 +40,7 @@ It is 7:00pm			Sono le sette di sera
 
 // what time is class?
 // other hour = not noon && not midnight && not 1
-What time is Italian class?		A che ora e\ la lezione d’italiano?
+What time is Italian class?		A che ora e\ la lezione d'italiano?
 The class is at noon			La lezione e\ a mezzogiorno
 The class is at midnight		La lezione e\ a mezzanotte
 The class is at 1				La lezione e\ all’una
