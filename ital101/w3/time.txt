@@ -23,8 +23,8 @@ It is midnight minus one	E\ mezzanotte meno uno
 It is 3:00 minus ten		Sono le tre meno dieci
 
 // quarters and halves
-A quarter past 1:00			E\ l'una e un quarto, E\ l'una e un quindici
-A quarter before 2:00		Sono le due meno un quarto, Sono le due meno un quindici
+A quarter past 1:00			E\ l'una e un quarto, E\ l'una e quindici
+A quarter before 2:00		Sono le due meno un quarto, Sono le due meno quindici
 A half past midnight		E\ mezzanotte e mezza, E\ mezzanotte e trenta
 A half past 2:00			Sono le due e mezzo, Sono le due e trenta
 
