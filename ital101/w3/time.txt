@@ -2,13 +2,13 @@
 // num = not noon && not midnight && not 1
 It is noon			E\ mezzogiorno
 It is midnight		E\ mezzanotte
-It is 1:00			E\ l’una
+It is 1:00			E\ l'una
 It is [num]:00		Sono le [num]
 
 // examples with minutes
-It is 1:20					E\ l’una e venti
-It is 1:40					E\ l’una e quaranta
-It is 1:01...it is 1:59		E\ l’una e uno...e\ l’una e cinquantanove
+It is 1:20					E\ l'una e venti
+It is 1:40					E\ l'una e quaranta
+It is 1:01...it is 1:59		E\ l'una e uno...e\ l'una e cinquantanove
 
 It is 12:20pm				E\ mezzogiorno e venti
 It is 12:20am				E\ mezzanotte e venti
@@ -43,7 +43,7 @@ It is 7:00pm			Sono le sette di sera
 What time is Italian class?		A che ora e\ la lezione d'italiano?
 The class is at noon			La lezione e\ a mezzogiorno
 The class is at midnight		La lezione e\ a mezzanotte
-The class is at 1				La lezione e\ all’una
+The class is at 1				La lezione e\ all'una
 The class is at [other hour]	La lezione e\ alle + [hour]
 The class is at 6:00pm			La lezione e\ alle sei di sera
 
