@@ -1,0 +1,29 @@
+//// DATA STR STRENGTHS, WEAKNESSES, WORST-CASE RUNTIMES
+
+// arrays
+array strengths		index O(1)
+array weaknesses	search O(n), insert O(n), optimized search O(log n)
+
+// LLs
+LL strengths		insert O(1), delete O(1)
+LL weaknesses		index O(n), search O(n)
+what DSs do LLs implement?	stacks, queues
+
+// stacks, queues
+stacks are (LIFO/FIFO)		LIFO
+queues are (LIFO/FIFO)		FIFO
+
+// hash table / hash map
+HT strengths				index O(1), search O(1), insert O(1) amortized
+What to avoid in HTs		hash collisions, poor hash functions
+to avoid hash collisions	keep HT very large, write good hash functions
+
+// binary search tree
+(Balanced) BST strengths	index O(log n), search O(log n), insert O(log n)
+worst case, BST is a		LL
+BST rules					left < parent, right > parent, no duplicates
+
+
+
+
+

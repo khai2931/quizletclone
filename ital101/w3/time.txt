@@ -26,6 +26,8 @@ It is 3:00 minus ten		Sono le tre meno dieci
 A quarter past 1:00			E\ l'una e un quarto, E\ l'una e quindici
 A quarter before 2:00		Sono le due meno un quarto, Sono le due meno quindici
 A half past midnight		E\ mezzanotte e mezza, E\ mezzanotte e trenta
+
+// mezzo/mezza OK in any case
 A half past 2:00			Sono le due e mezzo, Sono le due e trenta
 
 // dist. between AM/PM
@@ -68,4 +70,7 @@ I have Italian class on Sundays		La domenica ho lezione d'italiano
 I have Italian class on Monday		Lunedi\ ho lezione d'italiano
 I have Italian class on Sunday		Domenica ho lezione d'italiano
 
-
+// what day is it
+What day is it today?		Che giorno e\ oggi?
+Tomorrow is Saturday		Domani e\ sabato
+Today is Friday				Oggi e\ venerdi\

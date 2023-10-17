@@ -1,5 +1,12 @@
 !! all are structured (singular | plural) !!
 
+// special cases
+If it ends in -co, its plural usually ends in		chi
+If it ends in -ca, its plural usually ends in		che
+If it ends in -go, its plural usually ends in		ghi
+If it ends in -ga, its plural usually ends in		ghe
+exceptions to adding h (ONLY masc plural, not fem plural)	simpatici, antipatici, amici
+
 // feminine nouns
 car					macchina | macchine
 question			domanda | domande

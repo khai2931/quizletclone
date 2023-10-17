@@ -1,0 +1,13 @@
+// sorting algos
+builds a subarray of the smallest remaining numbers		selection sort
+builds a subarray of the first k elements, sorted		insertion sort
+lets the biggest elements rise, repeatedly				bubble sort
+Why is insertion sort faster than selection sort?		O(n) best-case vs. O(n^2) best case
+
+repeatedly splits data into halves and combines them	merge sort
+repeatedly splits data based on < pivot, > pivot		quick sort
+
+time complexity of selection sort			O(n^2) all cases
+time complexity of insertion sort			O(n) best case, O(n^2) average/worst case
+time complexity of merge sort				O(n log n) all cases
+time complexity of quick sort				O(n log n) best/average case, O(n^2) worst case
