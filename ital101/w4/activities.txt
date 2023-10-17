@@ -1,0 +1,59 @@
+// expressions (dots and ? omitted from right)
+expressions				espressioni
+Do you like...?			Ti piace (Ti piacciono)
+I don't like...?		Non mi piace (Non mi piacciono)
+I like...?				Mi piace (mi piacciono)
+
+// activities
+activities				le attivita\
+to go horseback riding	andare a cavallo
+to go to the movies		andare al cinema
+to ride a bicycle		andare in bicicletta
+to listen to music		ascoltare la musica
+to dance				ballare
+to sing					cantare
+to run					correre
+to watch TV				guardare la TV (tivu\)
+to swim					nuotare
+to fish					pescare
+to ski					sciare
+to play the drums		suonare la batteria
+to play the guitar		suonare la chitarra
+to play the piano		suonare il piano
+
+// sports
+sports				gli sport
+track and field		l'atletica
+car racing			l'automobilismo
+camping				il campeggio
+field; court		il campo
+cycling				il ciclismo
+classical dance		la danza classica
+football			il football americano
+swimming			il nuoto
+gymnasium			la palestra
+volleyball			la pallavolo
+skiing				lo sci
+stadium				lo stadio
+
+// random things
+a tennis match		una partita di tennis
+the player			il giocatore
+the players			le giocatrici
+to walk				camminare
+the ball			il pallone
+the team			la squadra
+to play soccer		giocare a calcio
+to lose				perdere
+cards				le carte
+to win				vincere
+to help a friend	aiutare un amico
+the chess			gli scacchi
+basketball			la pallacanestro
+golf				il golf
+
+// other
+use "giocare a" with	games, sports
+use "suonare" with		musical instruments
+outside				fuori
+inside				dentro

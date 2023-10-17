@@ -1,0 +1,30 @@
+// other
+infinitive words are a stem followed by		are, ere, ire
+
+// add what?
+(present verb tense ends in...) io		o
+(present verb tense ends in...) tu		i
+(present verb tense ends in...) lui		a
+(present verb tense ends in...) lei		a
+(present verb tense ends in...) Lei		a
+(present verb tense ends in...) [none]	a
+
+(present verb tense ends in...) noi		iamo
+(present verb tense ends in...) voi		ate
+(present verb tense ends in...) loro	ano
+
+we speak (parlare)			noi parliamo
+you speak (pl, parlare)		voi parlate
+they speak (parlare)		loro parlano
+
+// conjugation of present tense
+I speak (parlare)					io parlo
+you speak (informal, parlare)		tu parli
+he speaks (parlare)					lui parla
+she speaks (parlare)				lei parla
+it speaks (parlare)					parla
+you speak (formal, parlare)			Lei parla
+
+we speak (parlare)			noi parliamo
+you speak (pl, parlare)		voi parlate
+they speak (parlare)		loro parlano

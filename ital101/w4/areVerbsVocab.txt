@@ -1,0 +1,47 @@
+// high accuracy adverbs
+today		oggi
+tomorrow	domani
+often		spesso
+always		sempre
+every day	tutti i giorni
+sometimes	a volte
+enough		abbastanza
+
+// vocab
+to speak			parlare
+
+to live (in)		abitare
+to arrive			arrivare
+to wait (for)		aspettare
+to change			cambiare
+to have dinner		cenare
+to look for			cercare
+to call				chiamare
+to begin			cominciare
+to begin to			incominciare a
+to buy				comprare
+to desire/want		desiderare
+to forget			dimenticare
+to draw				disegnare
+to become			diventare
+to attend/date		frequentare
+to drive			guidare
+to learn (to)		imparare (a)
+to meet (with)		incontrare
+to teach			insegnare
+
+to work				lavorare
+to send				mandare
+to eat				mangiare
+to pay				pagare
+to think (about/of)	pensare (a/di)
+to bring/wear		portare
+to practice			praticare
+to remember			ricordare
+to return/come back	(ri)tornare
+to explain			spiegare
+to study			studiare
+to telephone		telefonare (a)
+to fine				trovare
+to use				usare
+to travel			viaggiare
