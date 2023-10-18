@@ -13,10 +13,6 @@ infinitive words are a stem followed by		are, ere, ire
 (present verb tense ends in...) voi		ate
 (present verb tense ends in...) loro	ano
 
-we speak (parlare)			noi parliamo
-you speak (pl, parlare)		voi parlate
-they speak (parlare)		loro parlano
-
 // conjugation of present tense
 I speak (parlare)					io parlo
 you speak (informal, parlare)		tu parli
