@@ -3,12 +3,14 @@ expressions				espressioni
 Do you like...?			Ti piace (Ti piacciono)
 I don't like...?		Non mi piace (Non mi piacciono)
 I like...?				Mi piace (mi piacciono)
+Alice likes...			a Alice piace
 
 // activities
 activities				le attivita\
 to go horseback riding	andare a cavallo
 to go to the movies		andare al cinema
 to ride a bicycle		andare in bicicletta
+to go to gym			andare in palestra
 to listen to music		ascoltare la musica
 to dance				ballare
 to sing					cantare
@@ -20,6 +22,7 @@ to ski					sciare
 to play the drums		suonare la batteria
 to play the guitar		suonare la chitarra
 to play the piano		suonare il piano
+to play golf			giocare a golf
 
 // sports
 sports				gli sport
@@ -30,7 +33,7 @@ field; court		il campo
 cycling				il ciclismo
 classical dance		la danza classica
 football			il football americano
-swimming			il nuoto
+swimming			il nuoto (nuotare, inf.)
 gymnasium			la palestra
 volleyball			la pallavolo
 skiing				lo sci
@@ -38,8 +41,10 @@ stadium				lo stadio
 
 // random things
 a tennis match		una partita di tennis
-the player			il giocatore
-the players			le giocatrici
+the player (m)		il giocatore
+the player (f)		la giocatrice
+the players (f)		le giocatrici
+the players (m)		i giocatori
 to walk				camminare
 the ball			il pallone
 the team			la squadra
@@ -49,7 +54,7 @@ cards				le carte
 to win				vincere
 to help a friend	aiutare un amico
 the chess			gli scacchi
-basketball			la pallacanestro
+basketball			la pallacanestro (la basket)
 golf				il golf
 
 // other

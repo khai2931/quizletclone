@@ -28,3 +28,12 @@ you speak (formal, parlare)			Lei parla
 we speak (parlare)			noi parliamo
 you speak (pl, parlare)		voi parlate
 they speak (parlare)		loro parlano
+
+// conjugation of c/g and i stem ending
+you look for (informal, cercare)		tu cerchi
+we look for (cercare)					noi cerchiamo
+you explain (informal, spiegare)		tu spieghi
+we explain (spiegare)					noi spieghiamo
+
+you change (informal, cambiare)			tu cambi
+we change (cambiare)					noi cambiamo
