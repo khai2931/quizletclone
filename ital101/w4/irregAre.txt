@@ -1,0 +1,56 @@
+// verbs and meaning
+to go			andare
+to give			dare
+to do; to make	fare
+to be; to stay	stare
+
+// rules
+use ___ before the names of cities and small islands			a
+use ___ before the names of countries or regions				in
+use andare + ___ to talk about what people are going to do		a + infinitive (only for present movement)
+
+use ___ just before the person that is being given something	a
+
+// andare
+io (andare)		io vado
+tu (andare)		tu vai
+Lei (andare)	Lei va
+lui (andare)	lui va
+lei (andare)	lei va
+noi (andare)	noi andiamo
+voi (andare)	voi andate
+loro (andare)	loro vanno
+
+// dare
+io (dare)			io do
+tu (dare)			tu dai
+Lei (dare)			Lei da\
+lui (dare)			lui da\
+lei (dare)			lei da\
+noi (dare)			noi diamo
+voi (dare)			voi date
+loro (dare)			loro danno
+
+
+// fare
+io (fare)			io faccio
+tu (fare)			tu fai
+Lei (fare)			Lei fa
+lui (fare)			lui fa
+lei (fare)			lei fa
+noi (fare)			noi facciamo
+voi (fare)			voi fate
+loro (fare)			loro fanno
+
+
+// stare
+io (stare)		io sto
+tu (stare)		tu stai
+Lei (stare)		Lei sta
+lui (stare)		lui sta
+lei (stare)		lei sta
+noi (stare)		noi stiamo
+voi (stare)		voi state
+loro (stare)	loro stanno
+
+

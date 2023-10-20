@@ -1,0 +1,22 @@
+// stare exp (with plural adj rules!)
+to be/stay quiet	stare zitto/a
+
+// fare expressions
+to pay attention			fare attenzione, stare attento/a
+to take a bath				fare il bagno
+to take a shower			fare la doccia
+to have breakfast			fare colazione
+to take a short walk		fare due passi
+to go for a run				fare una corsa
+to ask a question			fare una domanda
+to take a picture			fare una foto
+to take a field trip		fare una gita
+to take a walk				fare una passeggiata
+to buy groceries/shop		fare la spesa/spese  ([la spesa] OR spese)
+to take a trip				fare un viaggio
+
+// dare expressions
+to address formally		dare del Lei
+to address informally	dare del tu
+to lend a hand			dare una mano
+to take an exam			dare un esame
