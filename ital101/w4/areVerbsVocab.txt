@@ -1,12 +1,3 @@
-// high accuracy adverbs
-today		oggi
-tomorrow	domani
-often		spesso
-always		sempre
-every day	tutti i giorni
-sometimes	a volte
-enough		abbastanza
-
 // vocab
 to speak			parlare
 

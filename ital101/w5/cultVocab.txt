@@ -1,0 +1,17 @@
+// sports
+referee			l'arbitro
+climbing		l'arrampicata
+basketball		il basket
+soccer player	il calciatore
+paragliding		il parapendio
+prize			il premio
+extreme sports	gli sport estremi
+windsurfing		il windsurf
+to root for a team		tifare
+
+// activities
+going to the beach		andare al mare
+going to the mountains	andare in montagna
+harvest mushrooms		raccolgono funghi
+take a ride				fare un giro
+playing bowls			giocare a bocce
