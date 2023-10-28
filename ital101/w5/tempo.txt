@@ -1,0 +1,60 @@
+// weather forecast
+weather forecast				previsioni mateo
+what is the weather like?		che tempo fa?
+it is nice|bad out				e\ bello|brutto
+the weather is nice|bad			fa bel|brutto tempo
+the weather is dreadful			il tempo e\ pessimo
+what is the temp?				quanti gradi ci sono?
+it is 18 degrees out			ci sono 18 gradi
+
+// weather events as NOUNS
+weather events		eventi climatici
+(noun) lightning			il fulmine
+(noun) hail					la grandine (c'e grandine)
+(noun) flash of lightning	il lampo
+(noun) fog					la nebbia
+(noun) snow					la neve
+(noun) cloud				la nuvola
+(noun) rain					la pioggia
+(noun) thunder				il tuono
+(noun) humidity				l'umidita\
+(noun) there is a storm		c'e\ il temporale (c'e\ un temporale)
+(noun) there is the sun		c'e\ il sole
+(noun) there is wind		c'e\ vento
+
+// to describe the weather
+to describe the weather			per descrivere il tempo
+
+// weather VERBS
+(verb) it's raining			piove (piovere)
+(verb) it's snowing			nevica (nevicare)
+
+// e\ + these are adjectives
+(adj.) overcast			coperto/a
+(adj.) cloudy			nuvoloso/a
+(adj.) rainy			piovoso/a
+(adj.) dry				secco/a
+(adj.) sunny			soleggiato/a
+(adj.) humid			umido/a
+(adj.) windy			ventoso/a
+
+
+// the date
+the date					la data
+when is your birthday?				quando e\ il tuo compleanno?
+my birthday is in march in spring	mio compleanno e\ a marzo in primavera (ventuno)
+
+year		l'anno
+birthday	il compleanno
+months		il mese
+this month	questo mese
+next month	prossimo mese
+season		la stagione
+
+// temps
+it's cold		fa freddo
+it's cool		fa fresco
+it's warm		fa caldo
+
+umbrella		l'ombrello
+raincoat		l'impermeabile (m)

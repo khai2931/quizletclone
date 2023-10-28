@@ -3,6 +3,13 @@ today		oggi
 tomorrow	domani
 often		spesso
 always		sempre
-every day	tutti i giorni
-sometimes	a volte
+every day	ogni giorno (tutti i giorni)
+sometimes	a volte (qualche volta)
 enough		abbastanza
+
+every year			ogni anno
+every weekend 		ogni fine settimana
+in the weekend 		nel fine settimana
+
+I never swim			non nuoto mai
+I almost never swim		non nuoto quasi mai

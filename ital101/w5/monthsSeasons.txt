@@ -1,0 +1,20 @@
+// months & seasons
+winter			l'inverno
+december		dicembre
+january			gennaio
+february		febbraio
+
+spring			la primavera
+march			marzo
+april			aprile
+may				maggio
+
+summer			l'estate (f.)
+june			giugno
+july			luglio
+august			agosto
+
+fall			l'autunno
+september		settembre
+october			ottobre
+november		novembre

@@ -1,9 +1,9 @@
 // expressions (dots and ? omitted from right)
 expressions				espressioni
-Do you like...?			Ti piace (Ti piacciono)
-I don't like...?		Non mi piace (Non mi piacciono)
-I like...?				Mi piace (mi piacciono)
-Alice likes...			a Alice piace
+Do you like...?			Ti piace + infinitive (Ti piacciono)
+I don't like...?		Non mi piace + infinitive (Non mi piacciono)
+I like...?				Mi piace + infinitive (mi piacciono)
+Alice likes...			a Alice piace + infinitive
 
 // activities
 activities				le attivita\
