@@ -1,0 +1,27 @@
+// main forms
+to have			avere
+io (avere) 		io ho
+tu (avere)		tu hai
+Lei (avere)		Lei ha
+lui (avere)		lui ha
+lei (avere)		lei ha
+
+// (only 2 irregs)
+noi (avere)		noi abbiamo
+voi (avere)		voi avete
+loro (avere)	loro hanno
+
+// expressions
+to be 8 years old		avere 8 anni
+to need					avere bisogno di
+to feel hot				avere caldo
+to be hungry			avere fame (f.)
+to feel cold			avere freddo
+to be in a hurry		avere fretta
+
+to be afraid (of)		avere paura (di)
+to be right				avere ragione
+to be thirsty			avere sete
+to be sleepy			avere sonno
+to be wrong				avere torto
+to feel like			avere voglia di

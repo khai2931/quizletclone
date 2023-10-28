@@ -1,0 +1,25 @@
+// ere conjucation
+to read			leggere
+io (leggere)	io leggo (+ o)
+tu (leggere)	tu leggi (+ i)
+Lei (leggere)	Lei legge (same for lui, lei) (+ e)
+noi (leggere)	noi leggiamo (+ iamo)
+voi (leggere)	voi leggete (+ ete)
+loro (leggere)	loro leggono (+ ono)
+
+// ere verbs (NO changes when ending in -c, -g)
+to ask (for)		chiedere
+to close			chiudere
+to run				correre
+to paint			dipingere
+to put				mettere
+to take				prendere
+to receive			ricevere
+
+to repeat			ripetere
+to reply (to)		rispondere (a)
+to write			scrivere
+to spend (money)	spendere
+to see				vedere
+to sell				vendere
+to live				vivere

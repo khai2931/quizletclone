@@ -1,0 +1,22 @@
+// piacere
+to please		piacere
+
+// singular noun or infinitive
+(sing. noun or inf) io (+ piace)		mi piace
+(sing. noun or inf) tu (+ piace)		ti piace
+(sing. noun or inf) Lei (+ piace)		Le piace
+(sing. noun or inf) lui (+ piace)		gli piace
+(sing. noun or inf) lei (+ piace)		le piace
+(sing. noun or inf) noi (+ piace)		ci piace
+(sing. noun or inf) voi (+ piace)		vi piace
+(sing. noun or inf) loro (+ piace)		gli piace
+
+// plural noun
+(pl. noun) io (+ piace)		mi piacciono
+(pl. noun) tu (+ piace)		ti piacciono
+(pl. noun) Lei (+ piace)	Le piacciono
+(pl. noun) lui (+ piace)	gli piacciono
+(pl. noun) lei (+ piace)	le piacciono
+(pl. noun) noi (+ piace)	ci piacciono
+(pl. noun) voi (+ piace)	vi piacciono
+(pl. noun) loro (+ piace)	gli piacciono
