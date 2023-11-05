@@ -20,3 +20,7 @@ to please		piacere
 (pl. noun) noi (+ piace)	ci piacciono
 (pl. noun) voi (+ piace)	vi piacciono
 (pl. noun) loro (+ piace)	gli piacciono
+
+// neg
+neg of mi piace			non mi piace
+neg of a alex piace		a alex non piace

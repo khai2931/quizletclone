@@ -10,7 +10,7 @@ loro (leggere)	loro leggono (+ ono)
 // ere verbs (NO changes when ending in -c, -g)
 to ask (for)		chiedere
 to close			chiudere
-to run				correre
+to run				correre (emphasize 1st vowel)
 to paint			dipingere
 to put				mettere
 to take				prendere

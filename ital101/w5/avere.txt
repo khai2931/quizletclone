@@ -11,7 +11,7 @@ noi (avere)		noi abbiamo
 voi (avere)		voi avete
 loro (avere)	loro hanno
 
-// expressions
+// expressions (pay attention to di)
 to be 8 years old		avere 8 anni
 to need					avere bisogno di
 to feel hot				avere caldo

@@ -17,10 +17,10 @@ weather events		eventi climatici
 (noun) cloud				la nuvola
 (noun) rain					la pioggia
 (noun) thunder				il tuono
+(noun) the sun				il sole
+(noun) the wind				il vento
 (noun) humidity				l'umidita\
 (noun) there is a storm		c'e\ il temporale (c'e\ un temporale)
-(noun) there is the sun		c'e\ il sole
-(noun) there is wind		c'e\ vento
 
 // to describe the weather
 to describe the weather			per descrivere il tempo
@@ -28,6 +28,11 @@ to describe the weather			per descrivere il tempo
 // weather VERBS
 (verb) it's raining			piove (piovere)
 (verb) it's snowing			nevica (nevicare)
+(verb) there is fog			c'e\ nebbia
+(verb) there is the sun		c'e\ il sole
+(verb) there is wind		c'e\ vento (tira vento)
+(verb) there is humidity	c'e\ humidita\
+(verb) there are clouds		ci sono nuvile
 
 // e\ + these are adjectives
 (adj.) overcast			coperto/a
@@ -37,6 +42,8 @@ to describe the weather			per descrivere il tempo
 (adj.) sunny			soleggiato/a
 (adj.) humid			umido/a
 (adj.) windy			ventoso/a
+(adj.) snowy			nevoso/a
+(adj.) foggy			nebbioso
 
 
 // the date
