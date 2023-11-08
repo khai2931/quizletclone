@@ -61,7 +61,7 @@ season		la stagione
 // temps
 it's cold		fa freddo
 it's cool		fa fresco
-it's warm		fa caldo
+it's hot		fa caldo
 
 umbrella		l'ombrello
 raincoat		l'impermeabile (m)
