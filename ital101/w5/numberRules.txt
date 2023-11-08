@@ -1,0 +1,39 @@
+// math
+plus (+)		piu\
+equals (=)		fa, uguale
+minus (-)		meno
+times (*)		per
+divided by (:)	diviso
+percent (%)		percento
+
+// grammar
+one million			un millione
+one hundred			cento (no un)
+one thousand		mille (no un)
+plural of millione	millioni
+plural of mille		mila
+plural of cento		cento
+
+3.000.000 italians	tre millioni d'italiani (use di)
+3.000.001 italians	tre millioni uno italiani (no di)
+
+// dates
+the year 100	il cento
+kate was born in 2000	kate e\ nata nel duemila
+jack was born in 2000	jack e\ nato nel duemila
+they were born in 2000	sono nati nel duemila
+
+from year 1 to year 2	dal uno al due
+
+january 1st 2000	il primo gannaio 2000
+january 31st 2000	il 31 gannaio 2000
+
+3/21/1995			21-03-1995 (date first, zero is there)
+
+for 3 months		da tre mesi
+since march			da marzo
+since 2014			dal 2014
+
+Since when...?				da quando
+How long...? (duration)		da quanto
+

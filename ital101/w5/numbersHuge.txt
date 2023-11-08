@@ -1,0 +1,27 @@
+// "specific numbers"
+101		centouno
+180		centottanta (drop o)
+198		centonovantotto
+208		duecentootto (don't drop o)
+
+1.100		millecento
+550.000		cinquecentocinquantamila
+
+// "general numbers"
+100		cento
+200		duecento
+300		trecento
+400		quattrocento
+500		cinquecento
+600		seicento
+700		settecento
+800		ottocento
+900		novecento
+
+1.000	mille
+2.000	duemila
+5.000	cinquemila
+
+100.000		centomila
+1.000.000	un milione
+8.000.000	otto milioni
