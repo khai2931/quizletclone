@@ -31,7 +31,7 @@ to describe the weather			per descrivere il tempo
 (verb) there is fog			c'e\ nebbia
 (verb) there is the sun		c'e\ il sole
 (verb) there is wind		c'e\ vento (tira vento)
-(verb) there is humidity	c'e\ humidita\
+(verb) there is humidity	c'e\ umidita\
 (verb) there are clouds		ci sono nuvole
 
 // e\ + these are adjectives
