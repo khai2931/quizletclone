@@ -36,11 +36,11 @@ widowed				vedovo/a
 
 // the fam
 family				la famiglia
-child; baby	(m)		il bambino
-child; baby	(f)		la bambina
+child; baby (m)		il bambino
+child; baby (f)		la bambina
 last name			il cognome
-partner	(m)			il compagno
-partner	(f)			la compagna
+partner (m)			il compagno
+partner (f)			la compagna
 couple				la coppia
 younger brother		il fratellino
 younger sister		la sorellina
