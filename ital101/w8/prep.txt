@@ -1,0 +1,56 @@
+// simple preps
+to, at, in					a
+with						con
+from, since, by, at			da
+of, from					di (d')
+in, to, at					in
+for, through, in order to	per
+among, between, in			fra/tra
+on, in						su
+
+// prep constractions, i.e. a + il -> al
+
+// a
+a + il		al
+a + lo		allo
+a + l'		all'
+a + la		alla
+a + i		ai
+a + gli		agli
+a + le		alle
+
+// da (just d + a...)
+da + il		dal
+da + lo		dallo
+da + l'		dall'
+da + la		dalla
+da + i		dai
+da + gli	dagli
+da + le		dalle
+
+// di (just da replaced with e...)
+di + il		del
+di + lo		dello
+di + l'		dell'
+di + la		della
+di + i		dei
+di + gli	degli
+di + le		delle
+
+// in (just di replaced with ne...)
+in + il		nel
+in + lo		nello
+in + l'		nell'
+in + la		nella
+in + i		nei
+in + gli	negli
+in + le		nelle
+
+// su
+su + i		sul
+su + lo		sullo
+su + l'		sull'
+su + la		sulla
+su + i		sui
+su + gli	sugli
+su + le		sulle
