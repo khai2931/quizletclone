@@ -10,12 +10,12 @@ percent (%)		percento
 one million			un millione
 one hundred			cento (no un)
 one thousand		mille (no un)
-plural of millione	millioni
+plural of milione	milioni
 plural of mille		mila
 plural of cento		cento
 
-3.000.000 italians	tre millioni d'italiani (use di)
-3.000.001 italians	tre millioni uno italiani (no di)
+3.000.000 italians	tre milioni d'italiani (use di)
+3.000.001 italians	tre milioni uno italiani (no di)
 
 // dates
 the year 100	il cento

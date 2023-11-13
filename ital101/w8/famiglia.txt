@@ -1,0 +1,84 @@
+// extras in the picture
+my grandma		mia nonna
+my grandpa		mio nonno
+my grandparents	miei nonni
+my father		mio padre
+my mother		mia madre
+my parents		miei genitori
+my uncle		mio zio
+my aunt			mia zia
+
+my brother		mio fratello
+my sister		mia sorella
+my cousin (m)	mio cugino
+my cousin (f)	mia cugina
+
+husband of...	marito di...
+wife of...		moglie di...
+daughter of...	figlia di...
+son of...		figlio di...
+children of...(m or mixed)	figli di...
+daughters of...(f)			figlie di...
+
+
+
+
+// is your marriage ok?
+marital status		lo stato civile
+living together		la convivenza
+divorced			divorziato/a
+engaged				fidanzato/a
+wedding; marriage	il matrimonio
+separated			separato/a
+single				single
+married (adj)		sposato/a
+widowed				vedovo/a
+
+// the fam
+family				la famiglia
+child; baby	(m)		il bambino
+child; baby	(f)		la bambina
+last name			il cognome
+partner	(m)			il compagno
+partner	(f)			la compagna
+couple				la coppia
+younger brother		il fratellino
+younger sister		la sorellina
+twins (m or mix)	i gemelli
+twins (f)			le gemelle
+relatives			i parenti
+boy; boyfriend		il ragazzo
+girl; girlfriend	la ragazza
+
+nephew; grandson		il nipote
+niece; granddaughter	la nipote
+grandchildren			i nipoti
+
+older				maggiore
+younger				minore
+
+// in laws
+in-laws				i parenti acquisiti
+brother-in-law		il cognato
+sister-in-law		la cognata
+son-in-law			il genero
+daughter-in-law		la nuora
+father-in-law		il suocero
+mother-in-law		la suocera
+
+// pets
+pets		gli animali domestici
+canary		il canarino
+rabbit		il coniglio
+hamster		il criceto
+cat			il gatto
+fish		il pesce
+dog			il cane
+
+// don't use these -- omit the step
+stepson			figliastro (prefer il figlio di mio marito/mia moglie)
+stepdaughter	figliastra (prefer la figlia di mio marito/mia moglie)
+stepbrother		fratellastro (prefer il figlio di mio padre/mia madre)
+stepsister		sorellastra (prefer il figlia di mio padre/mia madre)
+stepmom			la matrigna (prefer la moglie di mio padre/mia madre)
+stepdad			il patrigno (prefer il marito di mio padre/mia madre)

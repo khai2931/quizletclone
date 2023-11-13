@@ -1,0 +1,35 @@
+// masc sing
+(masc sing) my				il mio
+(masc sing) your			il tuo
+(masc sing) your (formal)	il Suo
+(masc sing) his, her, its	il suo
+(masc sing) our				il nostro
+(masc sing) your (plural)	il vostro
+(masc sing) their			il loro
+
+// fem sing
+(fem sing) my				la mia
+(fem sing) your				la tua
+(fem sing) your (formal)	la Sua
+(fem sing) his, her, its	la sua
+(fem sing) our				la nostra
+(fem sing) your (plural)	la vostra
+(fem sing) their			la loro
+
+// masc pl
+(masc pl) my				i miei
+(masc pl) your				i tuoi
+(masc pl) your (formal)		i Suoi
+(masc pl) his, her, its		i suoi
+(masc pl) our				i nostri
+(masc pl) your (plural)		i vostri
+(masc pl) their				i loro
+
+// fem pl
+(fem pl) my					le mie
+(fem pl) your				le tue
+(fem pl) your (formal)		le Sue
+(fem pl) his, her, its		le sue
+(fem pl) our				le nostre
+(fem pl) your (plural)		le vostre
+(fem pl) their				le loro
