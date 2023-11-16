@@ -76,9 +76,9 @@ fish		il pesce
 dog			il cane
 
 // don't use these -- omit the step
-stepson			figliastro (prefer il figlio di mio marito/mia moglie)
-stepdaughter	figliastra (prefer la figlia di mio marito/mia moglie)
-stepbrother		fratellastro (prefer il figlio di mio padre/mia madre)
-stepsister		sorellastra (prefer il figlia di mio padre/mia madre)
+stepson			il figliastro (prefer il figlio di mio marito/mia moglie)
+stepdaughter	la figliastra (prefer la figlia di mio marito/mia moglie)
+stepbrother		il fratellastro (prefer il figlio di mio padre/mia madre)
+stepsister		la sorellastra (prefer il figlia di mio padre/mia madre)
 stepmom			la matrigna (prefer la moglie di mio padre/mia madre)
 stepdad			il patrigno (prefer il marito di mio padre/mia madre)

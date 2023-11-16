@@ -2,10 +2,12 @@
 at home					a casa
 at/to the movies		al cinema
 at/to the beach/sea		al mare
+at/to the park			al parco
 at midnight				a mezzanotte
 on foot					a piedi
+by horse				a cavallo
 at/to school			a scuola
-at the table			a tavola
+at the table			a tavola (not on the table)
 in/to bed				a letto
 at/to the theater		a teatro
 
@@ -18,6 +20,7 @@ at/to the library	in biblioteca
 in town				in centro
 in/to the mountains	in montagna
 on vacation			in vacanza
+in the kitchen		in cucina
 
 // su
 on the computer			sul computer
@@ -25,3 +28,4 @@ online/on the internet	su Internet
 in the newspaper		sul giornale
 on/to the right			sulla destra
 on/to the left			sulla sinistra
+on the table			sul tavolo

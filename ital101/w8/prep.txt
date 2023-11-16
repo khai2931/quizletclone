@@ -47,7 +47,7 @@ in + gli	negli
 in + le		nelle
 
 // su
-su + i		sul
+su + il		sul
 su + lo		sullo
 su + l'		sull'
 su + la		sulla
