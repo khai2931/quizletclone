@@ -9,6 +9,9 @@ when?			quando?
 how much?		quanto?
 
 // demonstration.
+this			questo
+that			quel (quello)
+
 (questo) il libro		questo libro
 (questo) lo zaino		questo zaino
 (questo) l'orologio		quest'orologio
