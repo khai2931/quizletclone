@@ -28,7 +28,7 @@ who is it?		chi e\?
 (K-12) student	l'alunno|a
 friend			l'amico|a
 classmate		il|la compagno|a di classe
-instructor		l'insegnante
+instructor		l'insegnante (f)
 trash can		il cestino
 pencil			la matita
 desk			il banco
