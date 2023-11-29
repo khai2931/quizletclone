@@ -1,0 +1,28 @@
+// interrogation.
+what?			che cosa/che/cosa?
+who/whom?		chi?
+how?			come?
+where?			dove?
+why?			perche/?
+which/what?		quale?
+when?			quando?
+how much?		quanto?
+
+// demonstration.
+(questo) il libro		questo libro
+(questo) lo zaino		questo zaino
+(questo) l'orologio		quest'orologio
+(questo) i capitoli		questi capitoli
+(questo) gli esercizi	questi esercizi
+(questo) la lezione		questa lezione
+(questo) l'attivita\	quest'attivita\
+(questo) le risposte	queste rispote
+
+(quel) il libro			quel libro
+(quel) lo zaino			quello zaino
+(quel) l'orologio		quell'orologio
+(quel) i capitoli		quei capitoli
+(quel) gli esercizi		quegli esercizi
+(quel) la lezione		quella lezione
+(quel) l'attivita\		quell'attivita\
+(quel) le risposte		quelle risposte
