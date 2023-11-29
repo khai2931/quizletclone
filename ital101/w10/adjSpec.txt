@@ -1,0 +1,19 @@
+// buono
+(buono) un film			un buon film
+(buono) uno zoo			un buono zoo
+(buono) un amico		un buon amico
+(buono) i giornali		i buoni giornali
+(buono) gli avvocati	i buoni avvocati
+(buono) una donna		una buona donna
+(buono) un'amica		una buon'amica
+(buono) le ragazze		le buone ragazze
+
+// bello
+(bello) il bambino		il bel bambino
+(bello) lo zaino		il bello zaino
+(bello) l'uomo			il bell'uomo
+(bello) i capelli		i bei capelli
+(bello) gli occhi		i begli occhi
+(bello) la casa			la bella casa
+(bello) l'amica			la bell'amica
+(bello) le rose			le belle rose

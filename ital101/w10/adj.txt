@@ -1,0 +1,47 @@
+// physical
+tall			alto/a
+short			basso/a
+blond			biondo/a
+ugly			brutto/a
+cute			carino/a
+fat				grasso/a
+thin			magro/a
+dark-haired		moro/a
+muscular		muscoloso/a
+active			sportivo/a
+
+// personality
+cheerful			allegro/a
+angry				arrabbiato/a
+audacious, bold		audace
+dynamic				dinamico/a
+confident			disinvolto/a
+sly, shrewd			furbo/a
+naive				ingenuo/a
+(in)sensitive		(in)sensibile
+(ir)responsible		(ir)responsabile
+(dis)coureous		(s)cortese
+
+// ista (only one singular form)
+selfish			egoista (both sing masc and fem)
+feminist		femminista (both sing masc and fem)
+optimistic		ottimista (both sing masc and fem)
+pessimistic		pessimista (both sing masc and fem)
+
+
+// hair and eye (note that most are in plural masc form!!)
+(masc pl.) (sky) blue		azzurri
+(masc pl.) white			bianchi
+(masc pl.) blue				blu (invar.)
+(masc pl.) brown			castani
+(masc pl.) short			corti
+(masc pl.) grey				grigi
+(masc pl.) straight			lisci
+(masc pl.) long				lunghi
+(masc pl.) brown (eyes)		marroni
+(masc pl.) wavy				mossi
+(masc pl.) black			neri
+(masc pl.) hazel			nocciola (invar.)
+(masc pl.) curly			ricci
+(masc pl.) red				rossi
+(masc pl.) green			verdi
