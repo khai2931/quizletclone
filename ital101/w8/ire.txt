@@ -1,0 +1,15 @@
+// partire conj
+io + partire		io parto (+ o)
+tu + partire		tu parti (+ i)
+Lei + partire		Lei parte (+ e) (same for lui/lei)
+noi + partire		noi partiamo (+ iamo)
+voi + partire		voi partite (+ ite)
+loro + partire		loro partono (+ ono)
+
+// capire conj
+io + capire			io capisco (+ isco SKO)
+tu + capire			tu capisci (+ isci SHE)
+Lei + capire		Lei capisce (+ isce SHAY) (same for lui/lei)
+noi + capire		noi capiamo (+ iamo)
+voi + capire		voi capite (+ ite)
+loro + capire		loro capiscono (+ iscono SKONO)

@@ -1,10 +1,10 @@
 // extras in the picture
 my grandma		mia nonna
 my grandpa		mio nonno
-my grandparents	miei nonni
+my grandparents	i miei nonni
 my father		mio padre
 my mother		mia madre
-my parents		miei genitori
+my parents		i miei genitori
 my uncle		mio zio
 my aunt			mia zia
 

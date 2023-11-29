@@ -32,7 +32,7 @@ A half past 2:00			Sono le due e mezzo, Sono le due e trenta
 
 // dist. between AM/PM
 In the morning			di mattina (del mattino)
-In the afternoon		del pomeriggio
+In the afternoon		di pomeriggio
 In the evening			di sera
 In the night			di notte
 It is 1:00am			E\ l'una di notte

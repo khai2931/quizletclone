@@ -1,0 +1,17 @@
+// partire and the like (norm)
+to leave			partire (norm)
+to open				aprire (norm)
+to sleep			dormire (norm)
+to offer			offrire (norm)
+
+to follow; to take (a class)	seguire (norm)
+
+to feel; to hear	sentire (norm)
+to serve			servire (norm)
+
+// capire and the like (isc)
+to understand		capire (isc)
+to finish			finire (isc)
+to prefer			preferire (isc)
+to clean			pulire (isc)
+to send				spedire (isc)
