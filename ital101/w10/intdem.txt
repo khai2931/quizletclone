@@ -10,7 +10,11 @@ how much?		quanto?
 
 // demonstration.
 this			questo
-that			quel (quello)
+that			quello
+this one		questo/a
+these			questi/e
+that one		quello/a
+those			quelli/e
 
 (questo) il libro		questo libro
 (questo) lo zaino		questo zaino
@@ -21,11 +25,11 @@ that			quel (quello)
 (questo) l'attivita\	quest'attivita\
 (questo) le risposte	queste rispote
 
-(quel) il libro			quel libro
-(quel) lo zaino			quello zaino
-(quel) l'orologio		quell'orologio
-(quel) i capitoli		quei capitoli
-(quel) gli esercizi		quegli esercizi
-(quel) la lezione		quella lezione
-(quel) l'attivita\		quell'attivita\
-(quel) le risposte		quelle risposte
+(quello) il libro		quel libro
+(quello) lo zaino		quello zaino
+(quello) l'orologio		quell'orologio
+(quello) i capitoli		quei capitoli
+(quello) gli esercizi	quegli esercizi
+(quello) la lezione		quella lezione
+(quello) l'attivita\	quell'attivita\
+(quello) le risposte	quelle risposte
