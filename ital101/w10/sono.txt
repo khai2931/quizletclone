@@ -1,0 +1,59 @@
+// pics
+fast				veloce
+patient				paziente
+tired				stanco/a
+jealous				geloso/a
+worried				preoccupato/a
+strong				forte
+subtle; discreet	discreto/a
+
+the owner			il/la proprietario/a
+the waiter/ess		il/la cameriere/a
+the hairdresser		il/la parrucchiere/a
+the musician		il/la musicista
+
+
+// main
+
+// descriptions of the personal
+personal descriptions	descrizioni personali
+studious; diligent		studioso/a
+
+elderly			anziano/a
+active			attivo/a
+athletic		atletico/a
+greedy			avaro/a
+bright			brillante
+courageous		coraggioso/a
+cruel			crudele
+curious			curioso/a
+weak			debole
+helpful			disponibile
+sweet			dolce
+hard; tough		duro/a
+selfish			egoista
+energetic		energico/a
+faithful		fedele
+kind			gentile
+young			giovane
+whiny			lamentoso/a
+slow			lento/a
+modest			modesto/a
+poor			povero/a
+favorite		preferito/a
+rich			ricco/a
+funny; clever	spiritoso/a
+foreign			straniero/a
+old				vecchio/a
+
+// professions
+professions		le professioni
+architect		l'architetto
+lawyer			l'avvocato
+barber			il barbiere
+cashier			il/la cassiere/a
+journalist		il/la giornalista
+engineer		l'ingegnere
+technician		il tecnico
+businessman		l'uomo d'affari
+businesswoman	la donna d'affari
