@@ -23,7 +23,7 @@ those			quelli/e
 (questo) gli esercizi	questi esercizi
 (questo) la lezione		questa lezione
 (questo) l'attivita\	quest'attivita\
-(questo) le risposte	queste rispote
+(questo) le risposte	queste risposte
 
 (quello) il libro		quel libro
 (quello) lo zaino		quello zaino

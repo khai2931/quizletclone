@@ -1,0 +1,29 @@
+// d
+to have to/must		dovere
+to owe				dovere
+io + dovere			io devo
+tu + dovere			tu devi
+lui + dovere		lui deve (same for Lei/lei)
+noi + dovere		noi dobbiamo
+voi + dovere		voi dovete
+loro + dovere		loro devono
+
+// p
+to be able to/can	potere
+io + potere			io posso
+tu + potere			tu puoi
+lui + potere		lui puo\ (same for Lei/lei)
+noi + potere		noi possiamo
+voi + potere		voi potete
+loro + potere		loro possono
+
+// v
+to mean (a certain meaning)		volere dire
+to want				volere
+to say; to tell		dire
+io + volere			io voglio
+tu + volere			tu vuoi
+lui + volere		lui vuole (same for Lei/lei) (drop e for vuol dire)
+noi + volere		noi vogliamo
+voi + volere		voi volete
+loro + volere		loro vogliono
