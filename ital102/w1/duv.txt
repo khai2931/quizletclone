@@ -1,0 +1,35 @@
+// dire
+to say; to tell		dire
+io + dire			io dico
+tu + dire			tu dici
+lui + dire			lui dice
+noi + dire			noi diciamo
+voi + dire			voi dite
+loro + dire			loro dicono
+
+// uscire
+to go out; to leave		uscire
+io + uscire				io esco
+tu + uscire				tu esci
+lui + uscire			lui esce
+noi + uscire			noi usciamo
+voi + uscire			voi uscite
+loro + uscire			loro escono
+
+// venire
+to come					venire
+io + venire				io vengo
+tu + venire				tu vieni
+lui + venire			lui viene
+noi + venire			noi veniamo
+voi + venire			voi venite
+loro + venire			loro vengono
+
+// riuscire (same pattern as uscire)
+to succeed; to manage	riuscire
+io + riuscire			io riesco
+tu + riuscire			tu riesci
+lui + riuscire			lui riesce
+noi + riuscire			noi riusciamo
+voi + riuscire			voi riuscite
+loro + riuscire			loro riescono
