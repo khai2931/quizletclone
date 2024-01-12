@@ -16,7 +16,7 @@ themselves				se/
 after		dopo
 before		prima
 without		senza
-on			su
+on (about, i.e. a book on worms)	su
 under		sotto
 
 by oneself; at a person's home/work		da

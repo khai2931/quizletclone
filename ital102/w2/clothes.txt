@@ -1,0 +1,73 @@
+// pics
+purse				la borsa
+(sun)glasses		gli occhiali (da sole)
+necklace			la collana
+scarf				la sciarpa
+jacket				la giacca
+shorts				i pantalocini
+tie					la cravatta
+belt				la cintura
+pricey				caro/a
+bathing suit		il costume da bagno
+hat					il cappello
+shoes				le scarpe
+sport shoes			le scarpe da ginnastica
+
+to wear a dress		indossare un abito
+to wear a suit		portare un completo
+a good deal			un buon affare
+
+(clothing) yellow	giallo/a
+(clothing) orange	arancione
+(clothing) red		rosso/a
+(clothing) green	verde
+(clothing) blue		blu (invar.)
+(clothing) violet	viola (invar.)
+(clothing) pink		rosa (invar.)
+(clothing) brown	marrone
+(clothing) grey		grigio/a
+(clothing) black	nero/a
+(clothing) white	bianco/a
+
+// clothing
+underwear			la biancheria intima
+socks				i calzini
+blouse (for women)				la camicetta
+dress shirt			la camicia
+tank top			la canottiera
+overcoat			il cappotto
+sweatshirt (hoodie)			la felpa
+skirt				la gonna
+gloves				i guanti
+jeans				i jeans
+sweater				il maglione
+pants, trousers		i pantaloni
+boots				gli stivali
+clothing size		la taglia
+women's suit		il tailleur
+briefcase			la valigetta
+dress; suit			il vestito
+(short/long sleeved) t-shirt		la maglietta (a maniche corte/lunghe)
+
+// talking about clothes
+cotton				il cotone
+wool				la lana
+leather				la pelle
+silk				la seta
+flowered			a fiori
+plaid				a quadri
+striped				a riche
+solid color			a tinta unita
+sky blue			azzurro/a
+beige				beige (invar.)
+light				chiaro/a
+dark				scuro/a
+
+// shopping :: fare spese
+salesperson			il/la commesso/a
+sales				i saldi
+each (one)			ciascuno/a
+expensive			costoso/a
+cheap				economico
+loose, big			largo/a
+tight-fitting		stretto/a

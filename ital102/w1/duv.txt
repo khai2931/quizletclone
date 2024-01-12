@@ -8,7 +8,7 @@ voi + dire			voi dite
 loro + dire			loro dicono
 
 // uscire
-to go out; to leave		uscire
+to go out (i.e. with friends); to leave		uscire
 io + uscire				io esco
 tu + uscire				tu esci
 lui + uscire			lui esce
@@ -25,7 +25,7 @@ noi + venire			noi veniamo
 voi + venire			voi venite
 loro + venire			loro vengono
 
-// riuscire (same pattern as uscire)
+// riuscire (same pattern as uscire) (add a before infinitive)
 to succeed; to manage	riuscire
 io + riuscire			io riesco
 tu + riuscire			tu riesci
