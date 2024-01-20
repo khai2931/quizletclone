@@ -1,0 +1,16 @@
+// shops
+shops					i negozi
+ice cream shop			la gelateria
+butcher					la macelleria
+market					il mercato
+grocery store			il negozio d'alimentari
+bakery					la panetteria
+pastry shop				la pasticceria
+fish/seafood shop		la pescheria
+delicatessen			la salumeria
+supermarket				il supermercato
+
+beef					la carne di manzo
+veal					la carne di vitello
+shrimp					i gamberetti
+artichoke				il carciofo

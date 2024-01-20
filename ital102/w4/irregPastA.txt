@@ -1,0 +1,22 @@
+// special cases || irregular past participles
+pp of accendere		acceso
+pp of leggere		letto
+pp of aprire 		aperto
+pp of chiedere		chiesto
+pp of chiudere		chiuso
+pp of comporre		composto
+pp of correre		corso
+pp of decidere		deciso
+pp of dire			detto
+pp of fare			fatto
+
+pp of mettere		messo
+pp of offrire		offerto
+pp of perdere		perso/perduto
+pp of prendere		preso
+pp of rispondere	risposto
+pp of scrivere		scritto
+pp of spegnere		spento
+pp of spendere		speso
+pp of vedere		visto/veduto
+pp of vincere		vinto

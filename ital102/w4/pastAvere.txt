@@ -1,0 +1,37 @@
+// basics
+actions/states that ended in the past		passato prossimo
+to form passato prossimo with avere:		avere + pp (past participle)
+
+past participle of -are 		-ato
+past participle of -ere 		-uto
+past participle of -ire 		-ito
+
+io + pp parlare		ho parlato
+tu + pp parlare		hai parlato
+lui + pp parlare	ha parlato
+noi + pp parlare	abbiamo parlato
+voi + pp parlare	avete parlato
+loro + pp parlare	hanno parlato
+
+// expressions
+yesterday					ieri
+last (i.e. week, year)		scorso/a
+(some time) ago				fa
+
+last night					ieri sera
+the day before yesterday	l'altro ieri
+last month					il mese scorso
+last week					la settimana scorsa
+ten days ago				dieci giorni fa
+one year ago				un anno fa
+last sunday					domenica scorsa
+three weeks ago				tre settimane fa
+
+// time adverbs
+where to place time adverbs?	between avere and pp
+
+always		sempre
+ever		mai
+never		non...mai
+already		gia\
+not yet		non...ancora

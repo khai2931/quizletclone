@@ -1,0 +1,26 @@
+// andare pp
+io + pp andare		sono andato/a
+tu + pp andare		sei andato/a
+lui + pp andare		e\ andato/a
+
+noi + pp andare		siamo andati/e
+voi + pp andare		siete andati/e
+loro + pp andare	sono andati/e
+
+// verbs used with essere in pp
+to go					andare
+to arrive				arrivare
+to fall					cadere
+to cost, to be worth	costare
+to become				diventare
+to enter				entrare
+to be					essere
+to die					morire
+
+to be born				nascere
+to please (to like)		piacere
+to stay, to remain		restare
+to remain, to stay		rimanere
+to climb, to go up		salire
+to get on (bus, train)	salire
+to go down, to get down		scendere

@@ -1,0 +1,72 @@
+// exp
+how much is...?			quanto costa...?
+to cook					cucinare
+
+// shops
+shops					i negozi
+ice cream shop			la gelateria
+butcher					la macelleria
+market					il mercato
+grocery store			il negozio d'alimentari
+bakery					la panetteria
+pastry shop				la pasticceria
+fish/seafood shop		la pescheria
+delicatessen			la salumeria
+supermarket				il supermercato
+
+// food
+food					il cibo
+cookie					il biscotto
+butter					il burro
+cheese					il formaggio
+(olive) oil				l'olio (d'oliva)
+bread					il pane
+pasta					la pasta (asciutta)
+rice					il riso
+yogurt					lo yogurt
+
+// meat and fish
+meat					la carne
+fish					il pesce
+pork					la carne di maiale
+beef					la carne di manzo
+veal					la carne di vitello
+seafood					i frutti di mare
+shrimp					i gamberetti
+chicken					il pollo
+ham						il prosciutto
+tuna					il tonno
+clams					le vongole
+egg (eggs)				l'uovo (le uova)
+
+// fruit and veggies
+fruit					la frutta
+vegatable				la verdura
+artichoke				il carciofo
+raspberry				il lampone
+melon					il melone
+peas					i piselli
+grapes					l'uva
+a bunch of grapes		un grappolo d'uva
+
+jam						la marmellata
+pie						la crostata
+orange					l'arancia
+pear					la pera
+strawberry				la fragola
+tomato					il pomodoro
+garlic					l'aglio
+
+carrot					la carota
+mushroom				il fungo
+eggplant				la melanzana
+red pepper				il peperone rosso
+green pepper			il peperone verde
+lettuce					la lattuga
+green beans				i fagiolini
+onion					la cipolla
+potato					la patata
+banana					la banana
+peach					la pesca
+apple					la mela
+pineapples				l'ananas (m.)
