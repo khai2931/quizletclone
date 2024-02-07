@@ -11,7 +11,7 @@ loro + pp andare	sono andati/e
 to go					andare
 to arrive				arrivare
 to fall					cadere
-to cost, to be worth	costare
+to cost, to be worth	costare (an exception!!)
 to become				diventare
 to enter				entrare
 to be					essere
@@ -24,3 +24,5 @@ to remain, to stay		rimanere
 to climb, to go up		salire
 to get on (bus, train)	salire
 to go down, to get down		scendere
+
+// venire, andare ^^

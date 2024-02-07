@@ -1,0 +1,69 @@
+// expressions
+the alarm clock rings	suona la sveglia
+to brush one's teeth	lavarsi i denti
+to wash hands			lavarsi le mani
+to yawn					sbadigliare
+to wake up				svegliarsi
+
+// body parts
+body parts		le parti del corpo
+ankle			la caviglia
+hair			i capelli
+eyelash(es)		il ciglio (le ciglia)
+body			il corpo
+heart			il cuore
+face			la faccia
+throat			la gola
+lip(s)			il labbro (le labbra)
+hand(s)			la mano (le mani)
+skin			la pelle
+chest			il petto
+wrist			il polso
+blood			il sangue
+back			la schiena
+eyebrow(s)		il sopracciglio (le sopracciglia)
+shoulder		la spalla
+stomach			lo stomaco
+waist			la vita
+
+// in the bathroom
+in the bathroom		in bagno
+hair dryer			l'asciugacapelli (m.)
+lotion				la crema
+lipstick			il rossetto
+shampoo				lo shampoo
+mirror				lo specchio
+
+// pics
+to shave hair		farsi la barba
+to put on makeup	truccarsi
+brush				la spazzola
+
+the trick(makeup set?)		il trucco
+
+hand towel			l'asciugamano
+soap				il sapone
+comb				il pettine
+razor				il rasoio
+toothbrush			lo spazzolino (da denti)
+toothpaste			il dentifricio
+bathrobe			l'accappatoio
+slippers			le pantofole
+shaving cream		la schiuma da barba
+
+arm(s)		il braccio (le braccia)
+ear(s)		l'orecchio (le orecchie)
+leg			la gamba
+foot		il piede
+toe			il dito del piede
+head		la testa
+eye			l'occhio
+nose		il naso
+mouth		la bocca
+neck		il collo
+elbow		il gomito
+finger(s)	il dito (le dita)
+
+the tummy area		la pancia
+pajamas				il pigiama
+knee(s)				il ginocchio (le ginocchia)

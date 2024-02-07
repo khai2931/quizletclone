@@ -1,0 +1,70 @@
+// pics
+chef						il cuoco (la cuoca f.)
+to taste the soup			assaggiare la zuppa
+service						il servizio
+waiter						il cameriere
+plate						il piatto
+menu						il menu
+napkin						il tovagliolo
+fork						la forchetta
+water pitcher				la caraffa d'acqua
+glass (for drinking)		il bicchiere
+tablecloth					la tovaglia
+
+tip							la mancia
+flat tip					il coperto
+to order (food)				ordinare
+salt						il sale
+pepper						il pepe
+(white, red) wine			il vino (bianco, rosso)
+knife						il coltello
+spoon						il cucchiaio
+teaspoon (smaller)			il cucchiaino
+bowl						la ciotola
+
+
+// exp
+I would like...				vorrei...
+to be on a diet				essere a dieta
+homemade					fatto/a in casa
+
+
+// at the restaurant
+at the restaurant			al ristorante
+appetizer					l'antipasto
+bottle						la bottiglia
+bill						il conto
+side dish					il contorno
+// dessert						il dolce
+salad						l'insalata
+first/second course			il primo/secondo piatto
+cup; mug					la tazza
+espresso cup				la tazzina
+
+// meals
+meals						i pasti
+breakfast					la colazione
+lunch						il pranzo
+afternoon snack				la merenda
+snack						lo spuntino
+dinner						la cena
+
+// drinks
+drinks						le bevande
+(sparkling, still) water	l'acqua (frizzante, naturale)
+beer						la birra
+milk						il latte
+(orange) juice				il succo (d'arancia)
+tea							il te\
+
+// talking about food
+flavor; taste				il gusto
+bitter						amaro
+dessert						dolce
+sweet						dolce
+bland						insipido/a
+light						leggero/a
+rich, heavy					pesante
+spicy						piccante
+salty						salato/a
+tasty						saporito/a

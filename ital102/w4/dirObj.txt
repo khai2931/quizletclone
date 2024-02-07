@@ -1,0 +1,23 @@
+// direct object pronouns (DOP)
+me				mi
+you				ti
+you (formal)	La
+him/it (m.)		lo
+her/it (f.)		la
+
+us				ci
+you (pl.)		vi
+them (m.)		li
+them (f.)		le
+
+// rules
+// ____ goes after verb, ___ before		disj pro, DOP (after non)
+DOP: in verb cons with [inf]:			drop final -e, attach to end
+DOP: dovere, potere, or volere, place:	before or after
+DOP: in the pp form, place:				before avere (and agree the pp for l* DOP)
+can only shorten these to l'			lo, la (not li, le)
+
+to call attention, attach DOP to end of:	ecco
+
+DOP are not used with	essere (verbs that use these)
+

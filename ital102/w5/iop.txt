@@ -1,0 +1,27 @@
+// new verbs used with indirect objects
+
+to recommend			consigliare
+to show					mostrare
+to prepare				preparare
+to lend					prestare
+to give (as a gift)		regalare
+to give back			restituire (-isc-)
+
+// IOP: indirect object pronouns
+(to, for) me			mi
+(to, for) you			ti
+(to, for) you, formal	Le
+(to, for) him			gli
+(to, for) her			le
+
+(to, for) us			ci
+(to, for) you, plural	vi
+(to, for) them			gli (loro)
+
+// piacere-like verbs (PL) -> conj. with essere in preparare 
+to miss				mancare (PL)
+to be enough		bastare (PL)
+to remain			restare (PL)
+to seem				sembrare (PL)
+to be sorry			dispiacere (PL)
+

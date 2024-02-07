@@ -1,0 +1,19 @@
+past participle of -are 		-ato
+past participle of -ere 		-uto
+past participle of -ire 		-ito
+
+io + pp parlare		ho parlato
+tu + pp parlare		hai parlato
+lui + pp parlare	ha parlato
+noi + pp parlare	abbiamo parlato
+voi + pp parlare	avete parlato
+loro + pp parlare	hanno parlato
+
+// andare pp
+io + pp andare		sono andato/a
+tu + pp andare		sei andato/a
+lui + pp andare		e\ andato/a
+
+noi + pp andare		siamo andati/e
+voi + pp andare		siete andati/e
+loro + pp andare	sono andati/e

@@ -1,0 +1,57 @@
+// avere
+
+// irreg
+accendere		avere
+leggere			avere
+aprire 			avere
+chiedere		avere
+chiudere		avere
+comporre		avere
+correre			avere
+decidere		avere
+dire			avere
+fare			avere
+
+mettere			avere
+offrire			avere
+perdere			avere
+prendere		avere
+rispondere		avere
+scrivere		avere
+spegnere		avere
+spendere		avere
+vedere			avere
+vincere			avere
+
+// reg
+parlare			avere
+visitare		avere
+guidare			avere
+
+
+
+// essere
+
+// mixed
+venire			essere
+andare			essere
+arrivare		essere
+cadere			essere
+costare			essere
+diventare		essere
+entrare			essere
+essere			essere
+morire			essere
+
+nascere			essere
+piacere			essere
+restare			essere
+rimanere		essere
+salire			essere
+scendere		essere
+
+essere			essere
+vivere			essere
+
+partire			essere
+uscire			essere

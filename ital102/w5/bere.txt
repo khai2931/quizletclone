@@ -1,0 +1,10 @@
+// bere (stem = bev-)
+to drink		bere
+io + bere		io bevo
+tu + bere		tu bevi
+lui + bere		lui beve
+noi + bere		noi beviamo
+voi + bere		voi bevete
+loro + bere		loro bevono
+
+pp of bere		bevuto

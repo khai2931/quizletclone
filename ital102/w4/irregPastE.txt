@@ -2,7 +2,7 @@
 pp of essere	stato
 pp of morire	morto
 pp of nascere	nato
-pp of piacere	piaciuto (note: agrees with the thing that is pleasing)
+pp of piacere	piaciuto (note: agrees with the thing that is pleasing) (action = just -o)
 pp of rimanere	rimasto
 pp of scendere	sceso
 pp of venire	venuto

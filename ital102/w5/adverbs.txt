@@ -1,0 +1,42 @@
+// adverbs
+still, yet	ancora
+good		bene
+bad			male
+already		gia\
+(n)ever		(non) mai
+always		sempre
+often		spesso
+
+now								adesso, ora
+usually							di solito
+after, afterwards				dopo
+no more, no longer				non...piu\
+then, later						poi
+soon, quickly					presto
+before, first, beforehand		prima
+sometimes						qualche volta
+immediately, right away			subito
+late							tardi
+
+
+// from adj.
+cheerfully		allegramente
+frequently		frequentemente
+slowly			lentamente
+rarely			raramente
+quickly			velocemente
+truly			veramente
+
+finally			finalmente
+probably		probabilmente
+regularly		regolarmente
+particularly	particolarmente
+
+slightly		leggermente (opposite = heavily)
+violently		violentemente
+
+// both adj and adverbs
+a lot, many, very					molto
+little, few, not much, not very		poco
+too much, too						troppo
+so many, so many, so				tanto

@@ -1,0 +1,20 @@
+// reciprocal verbs
+to hug each other						abbracciarsi
+to help each other						aiutarsi
+to love each other						amarsi
+to kiss each other						baciarsi
+to call each other						chiamarsi
+to know each other						conoscersi
+to give to each other					darsi
+to look at each other					guardarsi
+to meet each other						incontrarsi
+to fall in love with each other			innamorarsi
+to split up, to leave each other		lasciarsi
+to hate each other						odiarsi
+to speak to each other					parlarsi
+to greet each other						salutarsi
+to write to each other					scriversi
+to get separated from each other		separarsi
+to marry each other						sposarsi
+to phone each other						telefonarsi
+to see each other						vedersi

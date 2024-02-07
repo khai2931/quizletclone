@@ -1,0 +1,8 @@
+// conj
+io + alzarsi		(io) mi alzo
+tu + alzarsi		(tu) ti alzi
+lui + alzarsi		(lui) si alza
+
+noi + alzarsi		(noi) ci alziamo
+voi + alzarsi		(voi) vi alzate
+loro + alzarsi		(loro) si alzano
