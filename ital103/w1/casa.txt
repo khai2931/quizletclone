@@ -1,0 +1,69 @@
+// exp
+to rent		affittare
+to rent		prendere in affitto
+to sublet			subaffittare
+to move				trasferirsi/traslocare
+
+// parts of house
+(walk-in) closet	la cabina armadio
+kitchen				la cucina
+pantry				la dispensa
+attic				la mansarda
+dining room			la sala da pranzo
+room				la stanza
+office; study		lo studio
+
+// furn
+armoire					l'armadio
+drawer					il cassetto
+night table				il comodino
+cupboard				la credenza
+piece of furniture		il mobile
+stove top				il piano cottura
+painting				il quadro
+desk					la scrivania
+
+// where live
+apartment						l'appartamento
+two-room apartment				il bilocale
+double/single room				la camera doppia/singola
+apartment building; palace		il palazzo
+studio apartment				il monolocale
+single-family home; villa		la villa
+
+// location
+to the right/left	a destra/sinistra
+next to				accanto (a)
+in front of			davanti (a)
+inside				dentro
+behind				dietro (a)
+outside				fuori
+above, over			sopra
+below, under		sotto
+
+// pics
+living room		il soggiorno
+bedroom			la camera da letto
+basement		il seminterrato
+balcony			il balcone
+bathroom		il bagno
+garage			il garage
+
+rug					il tappeto
+flower vase			il vaso da fiori
+couch				il divano
+la-Z-boy couch		la poltrona
+
+toilet		il water
+bathtub		la vasca da bagno
+
+hallway		il corridoio
+wall		la parete
+poster		il poster
+curtains	la tenda
+
+shelf				lo scaffale
+lamp				la lampada
+dresser (drawers)	la cassettiera
+
+

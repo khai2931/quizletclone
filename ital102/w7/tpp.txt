@@ -1,0 +1,18 @@
+// tpp
+
+// avere
+io + parlare (tpp)		avevo parlato
+tu + parlare (tpp)		avevi parlato
+lui + parlare (tpp)		aveva parlato
+noi + parlare (tpp)		avevamo parlato
+voi + parlare (tpp)		avevate parlato
+loro + parlare (tpp)	avevano parlato
+
+
+// uscire
+io + uscire (tpp)		ero uscito/a
+tu + uscire (tpp)		eri uscito/a
+lui + uscire (tpp)		era uscito/a
+noi + uscire (tpp)		eravamo usciti/e
+voi + uscire (tpp)		eravate usciti/e
+loro + uscire (tpp)		erano usciti/e

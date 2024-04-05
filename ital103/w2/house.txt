@@ -1,0 +1,59 @@
+// p. 312 - le faccende = house work
+
+// exp
+to set the table			apparecchiare (la tavola)
+to do household chores		fare le faccende
+to do laundry				fare il bucato
+to tidy up					mettere in ordine
+to vaccum					passare l'aspirapolvere
+to clear the table			sparecchiare (la tavola)
+to dust						spolverare
+to soil						sporcare
+
+// desc
+what a mess!				che casino!
+it's a pigsty!				e' un porcile!
+impecable; perfectly clean	impeccabile
+stained						macchiato/a
+clean						pulito/a
+disgusting					schifoso/a
+dirty						sporco/a
+
+// appliances
+clothes dryer			l'asciugatrice
+vaccum cleaner			l'aspirapolvere
+coffee maker			la caffettiera
+stove top; burners		i fornelli
+dishwasher				la lavastoviglie
+washing machine			la lavatrice
+toaster					il tostapane
+
+// parts of house
+courtyard			il cortile
+floor				il pavimento
+stair; staircase	la scala
+ceiling				il soffitto
+terrace				la terrazza
+roof				il tetto
+
+// pics
+microwave	il microonde (forno a microonde)
+oven		il forno
+sink		il lavello
+fridge		il frigo(rifero)
+freezer		il congelatore
+
+broom		la scopa
+laundry		il bucato
+pillow		il cuscino
+blanket		la coperta
+sheets		le lenzuola (sing. il lenzuolo)
+
+iron (appliance)	il ferro (da stiro)
+ironing board		l'asse da stiro (f.)
+
+to make the bed			fare il letto
+to wash the dishes		lavare i piatti
+to sweep				spazzare
+to take out the trash	portare fuori la spazzatura
+to iron					stirare

@@ -1,0 +1,36 @@
+// master conj qzlet
+
+// are
+io + are		o
+tu + are		i
+lui + are		a
+noi + are		iamo
+voi + are		ate
+loro + are		ano
+
+
+// ere
+io + ere		o
+tu + ere		i
+lui + ere		e
+noi + ere		iamo
+voi + ere		ete
+loro + ere		ono
+
+
+// ire
+io + ire		o
+tu + ire		i
+lui + ire		e
+noi + ire		iamo
+voi + ire		ite
+loro + ire		ono
+
+
+// ire (capire-like) ire (isc)
+io + ire (isc)		isco
+tu + ire (isc)		isci
+lui + ire (isc)		isce
+noi + ire (isc)		iamo
+voi + ire (isc)		ite
+loro + ire (isc)	iscono

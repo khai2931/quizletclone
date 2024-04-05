@@ -1,0 +1,22 @@
+// common stem: IP = imperfetto
+io + parlare -> IP		parlavo (vo)
+tu + parlare -> IP		parlavi (vi)
+lei + parlare -> IP		parlava (va)
+
+noi + parlare -> IP		parlavamo (vamo)
+voi + parlare -> IP		parlavate (vate)
+loro + parlare -> IP	parlavano (vano)
+
+// irreg stem
+io + essere -> IP		ero
+tu + essere -> IP		eri
+lei + essere -> IP		era
+
+noi + essere -> IP		eravamo
+voi + essere -> IP		eravate
+loro + essere -> IP		erano
+
+// irreg stem
+(any) + bere -> IP			bevev* (normal ending)
+(any) + dire -> IP			dicev* (normal ending)
+(any) + fare -> IP			facev* (normal ending)

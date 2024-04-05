@@ -1,0 +1,18 @@
+// basics --> ___ + lo la li le ne 			translates: to ___, "it"
+
+(doublepro) mi -->				me
+(doublepro) ti -->				te
+(doublepro) Le/gli/le -->		glie (omit space)
+
+(doublepro) ci -->				ce
+(doublepro) vi -->				ve
+(doublepro) gli (loro) -->		glie (omit space)
+
+(doublepro) si -->				se
+
+// rules
+(doublepro) if attached to end of infinitive --> (single/double) word			single
+(doublepro) two verb cons --> goes (before/mid/after) verbs						before
+in PP using doublepro, verb must agree with (DOP/IOP)				DOP (lo, la...)
+
+ci (there) ne -->				ce ne

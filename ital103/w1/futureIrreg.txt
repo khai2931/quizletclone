@@ -1,0 +1,24 @@
+// p298-299
+
+// special rules
+// all are verbs switch final a with ____ in future						e (except dare, fare, stare)
+
+// add _____ to future infinitve -care/gare verbs to keep hard h		h
+// drop _____ from future infinitive -ciare/giare verbs					i
+
+// irreg stems - just drop vowel
+(future stem) andare 		andr
+(future stem) avere			avr
+(future stem) cadere		cadr
+(future stem) dovere		dovr
+(future stem) potere		potr
+(future stem) sapere		sapr
+(future stem) vedere		vedr
+(future stem) vivere		vivr
+
+// irreg stems - no pattern
+(future stem) bere			berr
+(future stem) essere		sar
+(future stem) rimanere		rimarr
+(future stem) venire		verr
+(future stem) volere		vorr

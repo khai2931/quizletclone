@@ -1,0 +1,37 @@
+// pp. 320
+// informal imperative (ii)
+// (**) = weird cases
+
+// basics -- tu, noi, voi -- same as present tense with one exception
+(ii) tu + parlare		tu parla (** for all are verbs, a instead of i)
+(ii) tu + leggere		tu leggi
+
+// essere and avere
+(ii) tu + avere			tu abbi (**)
+(ii) noi + avere		noi abbiamo
+(ii) voi + avere		voi abbiate (**)
+
+(ii) tu + essere		tu sii (**)
+(ii) noi + essere		noi siamo
+(ii) voi + essere		voi siate (**)
+
+// irregular tu forms - interchangable with normal present tense forms except dire
+(ii) tu + andare		tu va' (vai)
+(ii) tu + dare			tu da' (dai)
+(ii) tu + dire			tu di' (** cannot use normal present tense)
+(ii) tu + fare			tu fa' (fai)
+(ii) tu + stare			tu sta' (stai)
+
+
+
+// da weird rules
+
+attach object and reflexive pronouns to the (begin/end) of the ii form		end
+
+when using [va', da', di', fa', sta'] with attached object pronouns, drop the ___ and double the ____ of pronoun 		apostrophe, initial letter (except gli)
+
+the negative voi/noi imperative forms is ____ + ___							non, verb (conjugated)
+
+the negative tu imperative form is ______ + ____							non, infinitive
+
+

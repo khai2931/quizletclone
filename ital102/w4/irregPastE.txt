@@ -7,3 +7,5 @@ pp of rimanere	rimasto
 pp of scendere	sceso
 pp of venire	venuto
 pp of vivere	vissuto
+
+pp of rompersi	rotto

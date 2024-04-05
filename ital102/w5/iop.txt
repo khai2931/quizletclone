@@ -18,7 +18,7 @@ to give back			restituire (-isc-)
 (to, for) you, plural	vi
 (to, for) them			gli (loro)
 
-// piacere-like verbs (PL) -> conj. with essere in preparare 
+// piacere-like verbs (PL) -> conj. with essere in PP 
 to miss				mancare (PL)
 to be enough		bastare (PL)
 to remain			restare (PL)

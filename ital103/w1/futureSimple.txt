@@ -1,0 +1,26 @@
+// p298-299
+
+// basics
+(future) io + parlare		parlero\ (+ o\)
+(future) tu + parlare		parlerai (+ ai)
+(future) lui + parlare		parlera\ (+ a\)
+
+(future) noi + parlare		parleremo (+ emo)
+(future) voi + parlare		parlerete (+ ete)
+(future) loro + parlare		parleranno (+ anno)
+
+(future) io + leggere		leggero\ (+ o\)
+(future) tu + leggere		leggerai (+ ai)
+(future) lui + leggere		leggera\ (+ a\)
+
+(future) noi + leggere		leggeremo (+ emo)
+(future) voi + leggere		leggerete (+ ete)
+(future) loro + leggere		leggeranno (+ anno)
+
+(future) io + dormire		dormiro\ (+ o\)
+(future) tu + dormire		dormirai (+ ai)
+(future) lui + dormire		dormira\ (+ a\)
+
+(future) noi + dormire		dormiremo (+ emo)
+(future) voi + dormire		dormirete (+ ete)
+(future) loro + dormire		dormiranno (+ anno)

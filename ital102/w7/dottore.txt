@@ -1,0 +1,64 @@
+// expressions
+to go to the doctor			andare dal dottore
+to heal; to treat			curare
+to be allergic (to)			essere allergico/a
+to be in/out of shape		essere in/fuori forma
+to avoid					evitare (di)
+to get better				guarire (-isc)
+to lose/gain weight			perdere/prendere peso
+to cry						piangere
+to break (an arm)			rompersi (un braccio)
+
+// at the hospital
+at the hospital				all'ospedale
+ambulance					l'ambulanza
+aspirin						l'aspirina
+surgeon (il/la)				il/la chirurgo/a
+dentist (il/la)				il/la dentista
+pharmacist (il/la)			il/la farmacista
+medicine; drug				la medicina
+(family) doctor				il medico (di famiglia)
+first aid; emergency room	il pronto soccorso
+presciption					la ricetta
+thermometer					il termometro
+
+// aliments and symptoms
+aliment			la malattia
+symptom			il sintomo
+cavity			la carie (invar.)
+depression		la depressione
+pain			il dolore
+infection		l'infezione (f.)
+flu				l'influenza
+insomnia		l'insonnia
+stuffy nose		il naso chiuso
+nausea			la nausea
+
+// diagnosis
+diagnosis		diagnosi
+serious			grave
+slight			leggero/a
+ill				malato/a
+healthy			sano/a	
+
+
+// pics
+the wound				la ferita
+to have a fever			avere la febbre
+to get a shot			fare una puntura
+to cough				tossire (-isc)
+to have back pain		avere mal di schiena
+to be pregnant			essere incinta
+the patient	(il/la)		il/la paziente
+the pill				la pillola
+to sneeze				starnutire (-isc)
+to have a cold			avere il raffreddore
+to be in good health	essere in buona salute
+
+the (male/female) nurse		l'infermier(e/a)
+to exercise					fare esercizio/ginnastica (fisico)
+to have a stomachache		avere mal di pancia
+to have a headache			avere mal di testa
+
+
+

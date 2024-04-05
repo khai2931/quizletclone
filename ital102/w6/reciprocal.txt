@@ -1,4 +1,4 @@
-// reciprocal verbs
+// reciprocal verbs (<-> action, noi, voi, loro)
 to hug each other						abbracciarsi
 to help each other						aiutarsi
 to love each other						amarsi
@@ -8,7 +8,7 @@ to know each other						conoscersi
 to give to each other					darsi
 to look at each other					guardarsi
 to meet each other						incontrarsi
-to fall in love with each other			innamorarsi
+to fall in love with each other			innamorarsi (fall myself in love)
 to split up, to leave each other		lasciarsi
 to hate each other						odiarsi
 to speak to each other					parlarsi
