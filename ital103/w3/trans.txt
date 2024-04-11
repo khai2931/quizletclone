@@ -1,0 +1,69 @@
+// p. 340
+// il transporto
+
+// exp
+to buckle (seatbelt)		allacchiare
+to have/be in a accident	avere un incidente
+to hit						colpire (isc)
+to break down				essere in panne
+to brake					frenare
+to rent (car)				noleggiare
+to park						parcheggiare
+
+// ways to go
+boat		la barca
+truck		il camion
+subway		la metro(politana)
+scooter		il motorino
+ship		la nave
+coach bus	il pullman
+taxi		il taxi
+ferry		il traghettto
+train		il treno
+car			la macchina
+
+// driving a car
+driver						l'autista
+highway						l'autostrada
+automatic transmission		il cambio automatico
+manual transmission			il cambio manuale
+car/train/plane window		il finestrino
+brakes (pl. noun)			i freni
+clutch						la frizione
+speed limit					il limite di velocita\
+driver's license			la patente
+
+// pub trans
+track; platform			il binario
+ticket office/window	la biglietteria
+ticket					il bigletto
+ticket collector		il controllore
+(bus/train) stop		la fermata
+timetable				l'orario
+to validate (ticket)	convalidare
+first/second class		prima/seconda classe
+
+// pics
+seatbelt		la cintura di sicurezza
+motor			il motore
+(car) door		la portiera
+steering wheel	il volante
+trunk			il bagagliaio
+(car) hood		
+
+
+windshield wipers	i tergicristalli
+windshield			il parabrezza
+headlights			i fari
+
+(car) service/gas station	la stazione di servizio
+mechanic					il meccanico
+
+traffic				il traffico
+police officer		il vigile urbano
+identification		la multa
+
+
+to fill up with gas		fare benzina
+to repair				riparare
+to blow up a tire		bucare una gomma

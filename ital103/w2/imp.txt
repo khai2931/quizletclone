@@ -1,0 +1,109 @@
+// exp
+to rent		affittare
+to move				trasferirsi/traslocare
+
+// parts of house
+kitchen				la cucina
+dining room			la sala da pranzo
+room				la stanza
+office; study		lo studio
+
+// furn
+night table				il comodino
+painting				il quadro
+desk					la scrivania
+
+// where live
+apartment						l'appartamento
+apartment building; palace		il palazzo
+studio apartment				il monolocale
+single-family home; villa		la villa
+
+// location
+to the right/left	a destra/sinistra
+next to				accanto (a)
+in front of			davanti (a)
+inside				dentro
+behind				dietro (a)
+outside				fuori
+above, over			sopra
+below, under		sotto
+
+// pics
+living room		il soggiorno
+bedroom			la camera da letto
+balcony			il balcone
+bathroom		il bagno
+garage			il garage
+
+flower vase			il vaso da fiori
+couch				il divano
+
+toilet		il water
+bathtub		la vasca da bagno
+
+hallway		il corridoio
+wall		la parete
+poster		il poster
+curtains	la tenda
+
+shelf				lo scaffale
+lamp				la lampada
+dresser (drawers)	la cassettiera
+
+
+
+
+// p. 312 - le faccende = house work
+
+// exp
+to set the table			apparecchiare (la tavola)
+to do household chores		fare le faccende
+to do laundry				fare il bucato
+to tidy up					mettere in ordine
+to vaccum					passare l'aspirapolvere
+to clear the table			sparecchiare (la tavola)
+to dust						spolverare
+to soil						sporcare
+
+// desc
+what a mess!				che casino!
+it's a pigsty!				e' un porcile!
+clean						pulito/a
+disgusting					schifoso/a
+dirty						sporco/a
+
+// appliances
+clothes dryer			l'asciugatrice
+vaccum cleaner			l'aspirapolvere
+coffee maker			la caffettiera
+stove top; burners		i fornelli
+washing machine			la lavatrice
+toaster					il tostapane
+
+// parts of house
+floor				il pavimento
+stair; staircase	la scala
+ceiling				il soffitto
+roof				il tetto
+
+// pics
+microwave	il microonde (forno a microonde)
+oven		il forno
+sink		il lavello
+fridge		il frigo(rifero)
+freezer		il congelatore
+
+broom		la scopa
+laundry		il bucato
+pillow		il cuscino
+blanket		la coperta
+
+iron (appliance)	il ferro (da stiro)
+ironing board		l'asse da stiro (f.)
+
+to make the bed			fare il letto
+to wash the dishes		lavare i piatti
+to sweep				spazzare
+to take out the trash	portare fuori la spazzatura
+to iron					stirare

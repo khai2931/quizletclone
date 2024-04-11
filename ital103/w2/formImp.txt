@@ -1,0 +1,49 @@
+// pp 324
+
+// formal imperative (fi)
+
+// basics -- general are/ere/ire cases
+// JUST ADD "NO" TO MAKE ALL LORO CASES!!
+(fi) Lei + parlare		parli (+ i)
+(fi) Loro + parlare		parlino (+ ino)
+
+(fi) Lei + leggere		legga (+ a)
+(fi) Loro + leggere		leggano (+ ano)
+
+(fi) Lei + dormire		dorma (+ a)
+(fi) Loro + dormire		dormano (+ ano)
+
+(fi) Lei + finire		finisca (+ a)
+(fi) Loro + finire		finiscano (+ ano)
+
+// irreg cases
+(fi) Lei + avere		abbia
+(fi) Lei + dare			dia
+(fi) Lei + essere		sia
+(fi) Lei + sapere		sappia
+(fi) Lei + stare		stia
+
+
+
+// rules
+// JUST ADD ___ TO MAKE ALL LORO CASES!! (to the Lei case)					no (but hey VOI is way more common)
+for any irregular verbs in present "io" form, change final ___ to ___		o, a
+make any fi negative by adding non (before/after)							before
+object and reflexive pronouns go (before/after) formal commands				before (it's after for informal!!)
+
+
+// common exporessions
+please (2x)					prego, pure (softer, encouraging)
+be patient					abbia pazienza
+make yourself comfortable	si accomodi
+wait						aspetti
+give me...					mi dia...
+tell me						mi dica
+may i help you?				mi dica?
+sign here					firmi qui
+look						guardi
+pass me...					mi passi...
+here/here you go			prenda
+don't worry					non si preoccupi
+listen						senta
+excuse me					mi scusi

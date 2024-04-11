@@ -1,4 +1,4 @@
-// basics --> ___ + lo la li le ne 			translates: to ___, "it"
+// basics --> ___ + lo la li le ne             translates: to ___, "it"
 
 (doublepro) mi -->				me
 (doublepro) ti -->				te
