@@ -1,0 +1,37 @@
+// pp. 370
+// present condtional -- what you would do/happen under certain circumstances
+
+// use same stems as future tense! (just change endings)
+
+PC: io (parlare)		parlerei (+ ei)
+PC: tu (parlare)		parleresti (+ esti)
+PC: lui (parlare)		parlerebbe (+ ebbe)
+
+PC: noi (parlare)		parleremmo (+ emmo)
+PC: voi (parlare)		parlereste (+ este)
+PC: loro (parlare)		parlerebbero (+ ebbero)
+
+
+PC: io (leggere)		leggerei (+ ei)
+PC: tu (leggere)		leggeresti (+ esti)
+PC: lui (leggere)		leggerebbe (+ ebbe)
+
+PC: noi (leggere)		leggeremmo (+ emmo)
+PC: voi (leggere)		leggereste (+ este)
+PC: loro (leggere)		leggerebbero (+ ebbero)
+
+
+PC: io (dormire)		dormirei (+ ei)
+PC: tu (dormire)		dormiresti (+ esti)
+PC: lui (dormire)		dormirebbe (+ ebbe)
+
+PC: noi (dormire)		dormiremmo (+ emmo)
+PC: voi (dormire)		dormireste (+ este)
+PC: loro (dormire)		dormirebbero (+ ebbero)
+
+// add _____ to future infinitve -care/gare verbs to keep hard h		h
+// drop _____ from future infinitive -ciare/giare verbs					i
+// use same irregular stems as											future tense
+
+// usage -- to make a request polite, or to explain why not with "ma"
+// do not use to refrence repeated actions in past

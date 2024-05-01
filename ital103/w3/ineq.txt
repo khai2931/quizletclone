@@ -1,0 +1,29 @@
+// pp. 352
+// inequalites
+
+// basics
+more than: _____ + [adj, verb, noun] + _____				piu\, di
+less/fewer than: _____ + [adj, verb, noun] + _____			meno, di
+
+
+// don't forget di + [lo,la,li] della dello.... use those where def articles used
+// yes you can use disj pro [me, te, lui, etc] after di
+
+use __ instead of di when camparing in relation to same subject (very beginning of sentence, io/tu/lui etc)			che
+
+more/less than a certain number: ____ + ____ + number		piu\ or meno, di
+
+// common adjectives + comparative (use di/della after)
+(piu') buono/a (good)			migliore (better)
+(piu') cattivo/a (bad)			peggiore (worse)
+(piu') grande (big)				maggiore (bigger)
+(piu') piccolo/a (small)		minore (smaller)
+
+// common adverbs + comparative
+(piu') bene (well)				meglio (better)
+(piu') male (badly)				peggio (worse)
+
+adjectives (agree/don't agree) with num/gender, adverbs (agree/don't agree)				agree, don't agree
+
+these two adjectives denote size								grande, piccolo/a
+these two adjectives are for older/younger (greater/lesser)		maggiore, minore

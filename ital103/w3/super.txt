@@ -1,0 +1,29 @@
+// pp. 356
+// superlatives
+// relative super --> within a group
+// absolute super --> very/extremely
+
+// basics of rel
+rel super: ____ + piu'/meno + ______							def art, adj
+
+// note: below works for super noun (just add di later)
+rel super in a group: ____ + piu'/meno + ______ + [group]		def art, di (dei, delle, etc.)
+
+rel super noun (adj last): _____ + _____ + piu'/meno + adj		def art, noun
+rel super noun (adj first): _____ + piu'/meno + adj + ____		def art, noun
+
+rel super adverbs: piu'/meno + ______ + _____					adverb, di tutti
+
+// basics of abs
+abs super of adj: _____ + adj OR add ___ to masc PLURAL form		molto, ssimo/a (i/e possible)
+abs super of adverb: _____ + adv OR drop last vowel and add ___		molto, issimo (invariable)
+
+// (irreg rel) irreg abs superlative forms (regular forms are valid too)
+buona/a (il/la migliore)		ottimo/a
+cattivo/a (il/la peggiore)		pessimo/a
+grande (il/la maggiore)			massimo/a
+piccolo/a (il/la minore)		minimo/a
+
+// adverbs - regular
+bene (meglio di tutti)			molto bene, benissimo
+male (peggio di tutti)			molto male, malissimo

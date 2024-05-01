@@ -1,0 +1,23 @@
+// pp. 374
+// past conditional (TC)
+
+// use PC (present cond) of avere/essere + [past participle] as with pp
+// don't forget to agree essere's PP with subject number and gender
+
+// when to use: what WOULD HAVE happened/been done under certain condtions (in the past)
+//              and a future action from perspective of the past (in context of restating what someone else said) 
+
+// basics
+TC: io (leggere)		avrei letto
+TC: tu (leggere)		avresti letto
+TC: lui (leggere)		avrebbe letto
+TC: noi (leggere)		avremmo letto
+TC: voi (leggere)		avreste letto
+TC: loro (leggere)		avrebbero letto
+
+TC: io (partire)		sarei partito/a
+TC: tu (partire)		saresti partito/a
+TC: lui (partire)		sarebbe partito/a
+TC: noi (partire)		saremmo partito/a
+TC: voi (partire)		sareste partito/a
+TC: loro (partire)		sarebbero partito/a

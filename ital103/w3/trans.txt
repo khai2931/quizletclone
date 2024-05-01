@@ -16,9 +16,9 @@ truck		il camion
 subway		la metro(politana)
 scooter		il motorino
 ship		la nave
-coach bus	il pullman
+coach bus	il pullman (for very long distances - across cities)
 taxi		il taxi
-ferry		il traghettto
+ferry		il traghetto
 train		il treno
 car			la macchina
 
@@ -36,7 +36,7 @@ driver's license			la patente
 // pub trans
 track; platform			il binario
 ticket office/window	la biglietteria
-ticket					il bigletto
+ticket					il biglietto
 ticket collector		il controllore
 (bus/train) stop		la fermata
 timetable				l'orario
@@ -49,7 +49,7 @@ motor			il motore
 (car) door		la portiera
 steering wheel	il volante
 trunk			il bagagliaio
-(car) hood		
+(car) hood		il cofano
 
 
 windshield wipers	i tergicristalli
@@ -60,8 +60,8 @@ headlights			i fari
 mechanic					il meccanico
 
 traffic				il traffico
-police officer		il vigile urbano
-identification		la multa
+traffic officer		il vigile urbano (NON polizia)
+ticket (police)		la multa (i.e. for speeding)
 
 
 to fill up with gas		fare benzina
