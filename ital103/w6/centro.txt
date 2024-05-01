@@ -42,7 +42,7 @@ until			fino a
 far from		lontano da
 nearby			qui vicino
 toward			verso
-close to		vincino a
+close to		vicino a
 
 // pics
 to go up the stairs		salire le scale
@@ -55,8 +55,8 @@ statue			la statua
 fountain		la fontana
 bench			la panchina
 trafic light	il semaforo
-crosswalk		l'incrocio
-street/road		la via
+crossing		l'incrocio
+road			la via
 
 north		nord
 south		sud
