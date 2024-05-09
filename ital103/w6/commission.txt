@@ -1,0 +1,61 @@
+// pp. 408
+// commission
+
+// exp
+to ask for a loan					chiedere un prestito
+to run errands						fare delle commissioni
+to sign								firmare
+to send								inviare
+to pay by check						pagare con assegno
+to pay with a credit/debit card		pagare con carta di credito/bancomat
+to pay in cash						pagare in contanti
+to withdraw money					prelevare dei soldi
+to receive							ricevere
+to fill out a form					riempire un modulo
+to deposit money					versare dei soldi
+
+
+// mail
+mail		la posta
+envelope	la busta
+postcard	la cartolina
+stamp		il francobollo
+address		l'indirizzo
+
+// at the bank
+at the bank			in banca
+bank account		il conto bancario
+checking account	il conto corrente
+coin; change		la moneta
+
+// in the city
+in the city						in citta\
+town hall						il comune
+flower shop; florist			il fiorista
+photo shop; photographer		il fotografo
+laundromat						la lavanderia
+perfume/cosmetics shop			la profumeria
+police headquarters				la questura
+(tourist) information office	l'ufficio informazioni
+
+
+// pics
+
+stationery (mail stuff)		la cartoleria
+mailbox						la cassetta delle lettere
+package						il pacco
+to send a letter			imbucare una lettera
+mailman/woman				il/la postino/a
+
+internet cafe				l'Internet point
+jewelery shop				la gioielleria
+post office					l'ufficio postale
+beauty shop/center			il centro estetico
+
+bank							la banca
+ATM (common name)				il bancomat
+ATM (technical name)			lo sportello automatico
+bank note (i.e. bank check)		la banconota
+
+news stand					l'edicola
+magazine					la rivista
