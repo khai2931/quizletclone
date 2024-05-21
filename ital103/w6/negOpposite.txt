@@ -2,9 +2,9 @@
 
 gia\ (already)			non ancora (not yet)
 mai (ever)				non mai (never)
-anche (also)			neanche (not even, same as neppure, nemmeno)
-qualcuno (someone)		nessuno (no one)
-qualcosa (something)	niente (nothing, same as nulla)
+anche (also)			non neanche (not even, same as neppure, nemmeno)
+qualcuno (someone)		non nessuno (no one)
+qualcosa (something)	non niente (nothing, same as nulla)
 ancora (again)			non piu' (u\, not anymore)
 
 spesso (often), sempre (always)		non mai (never)
