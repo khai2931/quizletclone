@@ -12,12 +12,14 @@ to pay in cash						pagare in contanti
 to withdraw money					prelevare dei soldi
 to receive							ricevere
 to fill out a form					riempire un modulo
-to deposit money					versare dei soldi
+to deposit money					versare dei soldi (depositare dei soldi)
 
 
 // mail
 mail		la posta
-envelope	la busta
+
+(mail) envelope		la busta
+
 postcard	la cartolina
 stamp		il francobollo
 address		l'indirizzo
@@ -44,7 +46,7 @@ police headquarters				la questura
 stationery (mail stuff)		la cartoleria
 mailbox						la cassetta delle lettere
 package						il pacco
-to send a letter			imbucare una lettera
+to send a letter			imbucare una lettera (spedire)
 mailman/woman				il/la postino/a
 
 internet cafe				l'Internet point
