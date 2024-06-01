@@ -7,7 +7,7 @@
 rel super: ____ + piu'/meno + ______							def art, adj
 
 // note: below works for super noun (just add di later)
-rel super in a group: ____ + piu'/meno + ______ + [group]		def art, di (dei, delle, etc.)
+rel super in a group: ____ + adj (noun optional) + ______ + [group]		def art, di (dei, delle, etc.)
 
 rel super noun (adj last): _____ + _____ + piu'/meno + adj		def art, noun
 rel super noun (adj first): _____ + piu'/meno + adj + ____		def art, noun
