@@ -1,9 +1,9 @@
 // p. 348
 // use these  comparatives to express that two people, things, or qualities are equal
 
-compare: ____ + [adj/adv] + _____ +	[noun]			cosi'/tanto, come/quanto (left is optional)
-compare: ____ + [noun 1] + _____ + [noun 2]			tanto, quanto (both agree w/ number and gender of nouns that follow each)
-compare: [verb] + _____ + _____	+ [noun]			(tanto) quanto
+compare: [noun + essere] ____ + [adj/adv] + _____ +	[noun]			cosi'/tanto, come/quanto (left is optional)
+compare: [Ci sono] ____ + [noun 1] + _____ + [noun 2]			tanto, quanto (both agree w/ number and gender of nouns that follow each)
+compare: [noun + verb] + _____ + _____	+ [noun]			(tanto) quanto
 
 // rules
 pronouns after come/quanto should be			disj. pro
