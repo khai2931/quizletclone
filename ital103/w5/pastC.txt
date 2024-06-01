@@ -18,6 +18,6 @@ TC: loro (leggere)		avrebbero letto
 TC: io (partire)		sarei partito/a
 TC: tu (partire)		saresti partito/a
 TC: lui (partire)		sarebbe partito/a
-TC: noi (partire)		saremmo partito/a
-TC: voi (partire)		sareste partito/a
-TC: loro (partire)		sarebbero partito/a
+TC: noi (partire)		saremmo partiti/e
+TC: voi (partire)		sareste partiti/e
+TC: loro (partire)		sarebbero partiti/e
