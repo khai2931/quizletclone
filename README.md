@@ -14,7 +14,7 @@ https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 (General Link)
 https://www.oracle.com/java/technologies/downloads/
 
-## To run QuizletClone:
+### To run QuizletClone:
 
 For windows, double-click on `RunQuizletClone.bat`
 
@@ -27,7 +27,7 @@ for example, `ital101/w2/smallNumbers.txt` if you clone this repo unmodified.
 
 See `ital101/w2/smallNumbers.txt` for an example of how to format your text files for use with this app.
 
-## Expected format:
+### Expected format:
 
 Each `pair` is separated by a newline.
 
